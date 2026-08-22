@@ -1,0 +1,58 @@
+---
+title: "Internal Temporomandibular Joint (TMJ) Derangement - Dentistry - MSD Manual Professional Edition"
+source: msdmanuals.com
+url: https://www.msdmanuals.com/professional/dental-disorders/temporomandibular-disorders/internal-temporomandibular-joint-tmj-derangement
+sub: "msd_prof"
+---
+
+View Patient Education
+
+The most common form of internal temporomandibular joint derangement is an anterior displacement of the articular disc in relation to the condyle. Often, joint pain and popping or clicking occur and the disc returns to normal position on jaw opening. Less frequently, the disc remains displaced and jaw opening is restricted. Diagnosis is based on history and physical examination along with confirmatory findings on magnetic resonance imaging (MRI). Treatment is with analgesics, jaw rest, muscle relaxation, physical therapy, and oral appliance therapy. If these methods fail, surgery may be necessary. Early treatment greatly improves results.
+
+(See also [Overview of Temporomandibular Disorders](https://www.msdmanuals.com/professional/dental-disorders/temporomandibular-disorders/overview-of-temporomandibular-disorders-tmds).)
+
+Internal derangements may occur if the morphology of the disc is altered and the discal ligaments become elongated. The severity of the derangement depends on the extent of the disc and ligament changes. If the disc is displaced (most commonly anterior to the condyle) when the mouth is closed and does not return to its normal position during mouth opening, the diagnosis is **disc derangement without reduction**. Restricted jaw opening (locked jaw) and pain in the ear and around the temporomandibular joint (TMJ) may result. If at some point in the joint’s excursion the disc returns to the head of the condyle, the diagnosis is **disc derangement with reduction**. Nonpainful derangement with reduction occurs in approximately one-third of the population at some point ([1](https://www.msdmanuals.com/professional/dental-disorders/temporomandibular-disorders/internal-temporomandibular-joint-tmj-derangement#fcf8ccf0-b0a2-4ca3-adf2-ddbd0f2e9268)). 
+
+All types of derangement can cause capsulitis (or synovitis), which is inflammation of the tissues surrounding the joint (eg, tendons, ligaments, connective tissue, synovium). Capsulitis can also occur spontaneously or result from arthritis, trauma, or infection.
+
+1. 1. [Poluha RL, Canales GT, Costa YM, et al](https://pmc.ncbi.nlm.nih.gov/articles/PMC6382319/) . Temporomandibular joint disc displacement with reduction: a review of mechanisms and clinical presentation [published correction appears in*J Appl Oral Sci.* 2019 Apr 01;27:e2019er001. doi: 10.1590/1678-7757-2019er001.].*J Appl Oral Sci.* 2019;27:e20180433. Published 2019 Feb 21. doi:10.1590/1678-7757-2018-0433C
+
+**Disc derangement with reduction** often causes a painless clicking or popping sound when the mouth is opened. Patients perceive these sounds as loud because of local sound conduction, although these sounds may not always be audible to people nearby. Pain may be present, particularly when chewing foods with a tough consistency.
+
+**Disc derangement without reduction** usually causes no sound, but maximum opening between the upper and lower incisors is reduced. Pain and a change in a patient's perception of their bite generally result. These symptoms usually manifest acutely in a patient with a chronically clicking joint. Sometimes the patient awakens unable to open the jaw fully.
+
+Occasionally the symptoms of disc derangement without reduction spontaneously resolve after 6 to 12 months.
+
+Capsulitis results in localized joint pain, tenderness, and, sometimes, restricted opening.
+
+- Primarily history and physical examination
+- MRI
+
+Diagnosis of **disc derangement with reduction** requires observation of the jaw when the mouth is opened. When the jaw is opened > 10 mm (measured between the incisal edges of the upper and lower incisors), a click or pop is heard, or a catch is felt, as the disc pops backward over the head of the condyle. The condyle remains on the disc during further opening. Usually, another, more subtle (reciprocal) click is heard during closing when the condyle slips over the posterior rim of the disc and the disc slips forward.
+
+Diagnosis of **disc derangement without reduction** requires that the patient open their mouth as wide as possible. The opening is measured, and gentle pressure is then exerted to open the mouth a little wider. Normally, the jaw opens approximately 45 to 50 mm; if the disc is deranged, it will open approximately ≤ 30 mm and the jaw will deflect to the affected side. Closing or protruding the jaw against resistance worsens the pain. 
+
+MRIs with the patient's mouth in both the open and closed position are typically performed to confirm presence of a disc derangement (by observing the position of the disc relative to the condyle during opening and closing).
+
+Capsulitis is often diagnosed based on a history of injury or infection along with exquisite tenderness over the joint and by exclusion when pain remains after treatment for temporomandibular myofascial pain syndrome, disc derangement, arthritis, and structural asymmetries. However, capsulitis may be present with any of these conditions.
+
+- Analgesics as needed
+- Sometimes nonsurgical treatments such as exercising devices (eg, passive jaw-motion devices) or anterior repositioning appliances
+- Surgery if conservative treatment fails
+- Sometimes glucocorticoid injection for capsulitis
+
+**Disc derangement with reduction** does not require treatment if the patient can open their mouth reasonably wide (approximately 40 mm or the width of the index, middle, and ring fingers) without discomfort. If pain occurs, analgesics such as NSAIDs (eg, ibuprofen 400 mg orally every 6 hours) can be used. Some patients benefit from performing passive jaw-motion exercises using commercially available mechanical devices. 
+
+If onset is < 6 months, an anterior repositioning appliance may be used to move the mandible anteriorly, repositioning the condyle on the disc. This oral appliance is horseshoe-shaped, hard, transparent acrylic (plastic) made to fit snugly over the teeth of one arch. Its occlusal surface is designed to hold the mandible forward when the jaw closes on the appliance. In this position, the normal condyle-disc relationship is reestablished and maintained. The oral appliance is gradually adjusted to allow the mandible to move posteriorly. If the disc maintains its position on the condyle, the disc is said to be captured. However, the longer the disc is displaced, the more deformed it becomes and the less likely its repositioning will succeed. Surgical plication of the disc may be performed, with variable success.
+
+**Disc derangement without reduction** may not require treatment other than analgesics (typically NSAIDs). Oral appliances may help if the disc has not been significantly deformed and may reduce forces on the retrodiscal tissues, thereby allowing adaptation of these tissues to form a pseudodisc. However, long-term use may result in irreversible changes (eg, maxillomandibular relationship changes, changes to the occlusion) in oral architecture. In some cases, the patient is instructed to slowly stretch the disc out of position, which allows the jaw to open normally. Various arthroscopic and open surgical procedures are available when conservative treatment fails.
+
+Capsulitis is initially treated with NSAIDs or oral glucocorticoids, jaw rest, and muscle relaxation. Sometimes an oral appliance worn during sleep or while awake may be used briefly until the inflammation decreases. If these treatments are unsuccessful, glucocorticoids may be injected into the joint, or arthroscopic joint lavage and debridement are used.
+
+- The articular disc is displaced anteriorly due to abnormal jaw mechanics; it may remain displaced (without reduction) or return (with reduction).
+- Disc displacement with reduction typically manifests with clicking/popping, jaw deviation towards the affected side upon opening, and pain with jaw use (such as chewing).
+- Disc displacement without reduction does not manifest with clicking/popping, but maximum jaw opening is limited to ≤ 30 mm and the jaw deflects to the affected side.
+- Surrounding tissues may become painfully inflamed (capsulitis).
+- Analgesics, oral appliances, and passive jaw-motion exercisers often help, but surgery is occasionally required.
+
+Test your Knowledge[Take a Quiz!](https://www.msdmanuals.com/professional/pages-with-widgets/quizzes)

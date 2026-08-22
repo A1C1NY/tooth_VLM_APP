@@ -1,0 +1,2437 @@
+{
+ "created": "2026-08-22",
+ "files": 486,
+ "total_bytes": 10180203,
+ "items": [
+  {
+   "file": "web/acute-necrotizing-ulcerative-gingivitis-anug.md",
+   "source": "msdmanuals.com",
+   "bytes": 4844
+  },
+  {
+   "file": "web/aging-and-dental-health.md",
+   "source": "ada.org",
+   "bytes": 8207
+  },
+  {
+   "file": "web/amalgam-separators.md",
+   "source": "ada.org",
+   "bytes": 4446
+  },
+  {
+   "file": "web/amalgam.md",
+   "source": "ada.org",
+   "bytes": 7839
+  },
+  {
+   "file": "web/anesthesia-and-sedation.md",
+   "source": "ada.org",
+   "bytes": 4663
+  },
+  {
+   "file": "web/ankylosis-of-the-temporomandibular-joint-tmj.md",
+   "source": "msdmanuals.com",
+   "bytes": 3145
+  },
+  {
+   "file": "web/antibiotic-prophylaxis.md",
+   "source": "ada.org",
+   "bytes": 9392
+  },
+  {
+   "file": "web/antibiotic-stewardship.md",
+   "source": "ada.org",
+   "bytes": 2556
+  },
+  {
+   "file": "web/antibiotics-for-dental-pain-and-swelling.md",
+   "source": "ada.org",
+   "bytes": 5821
+  },
+  {
+   "file": "web/antibiotics-to-prevent-prosthetic-joint-infection.md",
+   "source": "ada.org",
+   "bytes": 3036
+  },
+  {
+   "file": "web/arthritis-of-the-temporomandibular-joint-tmj.md",
+   "source": "msdmanuals.com",
+   "bytes": 7755
+  },
+  {
+   "file": "web/athletic-mouth-protectors-mouthguards.md",
+   "source": "ada.org",
+   "bytes": 4507
+  },
+  {
+   "file": "web/bad-breath.md",
+   "source": "msdmanuals.com",
+   "bytes": 14026
+  },
+  {
+   "file": "web/biology-of-the-mouth.md",
+   "source": "msdmanuals.com",
+   "bytes": 3437
+  },
+  {
+   "file": "web/biology-of-the-teeth.md",
+   "source": "msdmanuals.com",
+   "bytes": 3907
+  },
+  {
+   "file": "web/bisphenol-a.md",
+   "source": "ada.org",
+   "bytes": 3385
+  },
+  {
+   "file": "web/bruxism.md",
+   "source": "nidcr.nih.gov",
+   "bytes": 4274
+  },
+  {
+   "file": "web/burning-mouth-syndrome.md",
+   "source": "msdmanuals.com",
+   "bytes": 9138
+  },
+  {
+   "file": "web/burning-mouth.md",
+   "source": "nidcr.nih.gov",
+   "bytes": 4464
+  },
+  {
+   "file": "web/cancer-head-and-neck.md",
+   "source": "ada.org",
+   "bytes": 3830
+  },
+  {
+   "file": "web/cancer-therapies-and-dental-considerations.md",
+   "source": "ada.org",
+   "bytes": 42130
+  },
+  {
+   "file": "web/cancer-treatments.md",
+   "source": "nidcr.nih.gov",
+   "bytes": 4808
+  },
+  {
+   "file": "web/candidiasis--yeast-infection.md",
+   "source": "who.int",
+   "bytes": 9557
+  },
+  {
+   "file": "web/cannabis-oral-health-effects.md",
+   "source": "ada.org",
+   "bytes": 42483
+  },
+  {
+   "file": "web/cardiac-implanted-devices-and-electronic-dental-instruments.md",
+   "source": "ada.org",
+   "bytes": 5515
+  },
+  {
+   "file": "web/caries-management-clinical-practice-guidelines.md",
+   "source": "ada.org",
+   "bytes": 1914
+  },
+  {
+   "file": "web/caries-risk-assessment-and-management.md",
+   "source": "ada.org",
+   "bytes": 6923
+  },
+  {
+   "file": "web/caries.md",
+   "source": "msdmanuals.com",
+   "bytes": 24140
+  },
+  {
+   "file": "web/cavities.md",
+   "source": "msdmanuals.com",
+   "bytes": 22590
+  },
+  {
+   "file": "web/celiac-disease.md",
+   "source": "ada.org",
+   "bytes": 11052
+  },
+  {
+   "file": "web/chewing-gum.md",
+   "source": "ada.org",
+   "bytes": 16777
+  },
+  {
+   "file": "web/cleft-lip-palate.md",
+   "source": "nidcr.nih.gov",
+   "bytes": 5479
+  },
+  {
+   "file": "web/color-changes-and-spots-in-the-mouth.md",
+   "source": "msdmanuals.com",
+   "bytes": 3721
+  },
+  {
+   "file": "web/community-water-fluoridation.md",
+   "source": "nidcr.nih.gov",
+   "bytes": 3768
+  },
+  {
+   "file": "web/complications-after-dental-treatment.md",
+   "source": "msdmanuals.com",
+   "bytes": 6097
+  },
+  {
+   "file": "web/dental-anatomy-and-development.md",
+   "source": "msdmanuals.com",
+   "bytes": 7647
+  },
+  {
+   "file": "web/dental-appliances.md",
+   "source": "msdmanuals.com",
+   "bytes": 5596
+  },
+  {
+   "file": "web/dental-check-ups.md",
+   "source": "nhs.uk",
+   "bytes": 2274
+  },
+  {
+   "file": "web/dental-curing-lights.md",
+   "source": "ada.org",
+   "bytes": 8353
+  },
+  {
+   "file": "web/dental-erosion.md",
+   "source": "ada.org",
+   "bytes": 2164
+  },
+  {
+   "file": "web/dental-fillings.md",
+   "source": "nidcr.nih.gov",
+   "bytes": 2514
+  },
+  {
+   "file": "web/dental-implant-related-conditions.md",
+   "source": "msdmanuals.com",
+   "bytes": 1938
+  },
+  {
+   "file": "web/dental-sealants.md",
+   "source": "ada.org",
+   "bytes": 3036
+  },
+  {
+   "file": "web/dental-treatments.md",
+   "source": "nhs.uk",
+   "bytes": 7165
+  },
+  {
+   "file": "web/dental-unit-waterlines.md",
+   "source": "ada.org",
+   "bytes": 13034
+  },
+  {
+   "file": "web/dentures.md",
+   "source": "ada.org",
+   "bytes": 3535
+  },
+  {
+   "file": "web/developmental-disabilities.md",
+   "source": "nidcr.nih.gov",
+   "bytes": 7885
+  },
+  {
+   "file": "web/diabetes.md",
+   "source": "ada.org",
+   "bytes": 35122
+  },
+  {
+   "file": "web/dry-mouth.md",
+   "source": "nidcr.nih.gov",
+   "bytes": 4743
+  },
+  {
+   "file": "web/ectodermal-dysplasia.md",
+   "source": "nidcr.nih.gov",
+   "bytes": 6418
+  },
+  {
+   "file": "web/effects-of-aging-on-the-mouth-and-teeth.md",
+   "source": "msdmanuals.com",
+   "bytes": 4495
+  },
+  {
+   "file": "web/evaluation-of-the-dental-patient.md",
+   "source": "msdmanuals.com",
+   "bytes": 35448
+  },
+  {
+   "file": "web/evidence-based-dental-research.md",
+   "source": "ada.org",
+   "bytes": 6759
+  },
+  {
+   "file": "web/fever-blisters-canker-sores.md",
+   "source": "nidcr.nih.gov",
+   "bytes": 7973
+  },
+  {
+   "file": "web/fibrous-dysplasia-mccune-albright-syndrome.md",
+   "source": "nidcr.nih.gov",
+   "bytes": 7715
+  },
+  {
+   "file": "web/floss.md",
+   "source": "ada.org",
+   "bytes": 2699
+  },
+  {
+   "file": "web/fluoride-topical-and-systemic-supplements.md",
+   "source": "ada.org",
+   "bytes": 39523
+  },
+  {
+   "file": "web/fluoride.md",
+   "source": "nidcr.nih.gov",
+   "bytes": 10148
+  },
+  {
+   "file": "web/forensic-dentistry-and-anthropology.md",
+   "source": "ada.org",
+   "bytes": 15081
+  },
+  {
+   "file": "web/fractured-and-avulsed-teeth.md",
+   "source": "msdmanuals.com",
+   "bytes": 5419
+  },
+  {
+   "file": "web/fractured-loosened-or-knocked-out-teeth.md",
+   "source": "msdmanuals.com",
+   "bytes": 4835
+  },
+  {
+   "file": "web/genetics-and-oral-health.md",
+   "source": "ada.org",
+   "bytes": 9610
+  },
+  {
+   "file": "web/gingival-hyperplasia.md",
+   "source": "msdmanuals.com",
+   "bytes": 1686
+  },
+  {
+   "file": "web/gingivitis.md",
+   "source": "msdmanuals.com",
+   "bytes": 10616
+  },
+  {
+   "file": "web/gum-disease.md",
+   "source": "nidcr.nih.gov",
+   "bytes": 8401
+  },
+  {
+   "file": "web/gum-recession.md",
+   "source": "msdmanuals.com",
+   "bytes": 3254
+  },
+  {
+   "file": "web/halitosis.md",
+   "source": "msdmanuals.com",
+   "bytes": 15552
+  },
+  {
+   "file": "web/hemifacial-microsomia.md",
+   "source": "nidcr.nih.gov",
+   "bytes": 7133
+  },
+  {
+   "file": "web/hepatitis-viruses.md",
+   "source": "ada.org",
+   "bytes": 3850
+  },
+  {
+   "file": "web/hiv-aids.md",
+   "source": "nidcr.nih.gov",
+   "bytes": 5945
+  },
+  {
+   "file": "web/hiv.md",
+   "source": "ada.org",
+   "bytes": 4008
+  },
+  {
+   "file": "web/home-care.md",
+   "source": "ada.org",
+   "bytes": 4441
+  },
+  {
+   "file": "web/how-to-do-a-mental-nerve-block.md",
+   "source": "msdmanuals.com",
+   "bytes": 8431
+  },
+  {
+   "file": "web/how-to-do-a-supraperiosteal-infiltration.md",
+   "source": "msdmanuals.com",
+   "bytes": 8615
+  },
+  {
+   "file": "web/how-to-do-an-emergency-tooth-extraction.md",
+   "source": "msdmanuals.com",
+   "bytes": 20983
+  },
+  {
+   "file": "web/how-to-do-an-inferior-alveolar-nerve-block.md",
+   "source": "msdmanuals.com",
+   "bytes": 13045
+  },
+  {
+   "file": "web/how-to-do-an-infraorbital-nerve-block-intraoral.md",
+   "source": "msdmanuals.com",
+   "bytes": 8621
+  },
+  {
+   "file": "web/how-to-do-dental-procedures.md",
+   "source": "msdmanuals.com",
+   "bytes": 2638
+  },
+  {
+   "file": "web/how-to-drain-a-tooth-abscess.md",
+   "source": "msdmanuals.com",
+   "bytes": 12679
+  },
+  {
+   "file": "web/how-to-keep-your-teeth-clean.md",
+   "source": "nhs.uk",
+   "bytes": 4743
+  },
+  {
+   "file": "web/how-to-reduce-a-mandibular-dislocation.md",
+   "source": "msdmanuals.com",
+   "bytes": 8833
+  },
+  {
+   "file": "web/how-to-replace-and-splint-an-avulsed-tooth.md",
+   "source": "msdmanuals.com",
+   "bytes": 13120
+  },
+  {
+   "file": "web/hypertension.md",
+   "source": "ada.org",
+   "bytes": 6403
+  },
+  {
+   "file": "web/hypophosphatasia.md",
+   "source": "ada.org",
+   "bytes": 16423
+  },
+  {
+   "file": "web/impacted-teeth.md",
+   "source": "msdmanuals.com",
+   "bytes": 1540
+  },
+  {
+   "file": "web/infection-control-and-sterilization.md",
+   "source": "ada.org",
+   "bytes": 22761
+  },
+  {
+   "file": "web/infective-endocarditis-clinical-practice-guideline.md",
+   "source": "ada.org",
+   "bytes": 1502
+  },
+  {
+   "file": "web/internal-temporomandibular-joint-tmj-derangement.md",
+   "source": "msdmanuals.com",
+   "bytes": 8566
+  },
+  {
+   "file": "web/introduction-to-the-dental-patient.md",
+   "source": "msdmanuals.com",
+   "bytes": 6154
+  },
+  {
+   "file": "web/introduction-to-urgent-dental-problems.md",
+   "source": "msdmanuals.com",
+   "bytes": 2742
+  },
+  {
+   "file": "web/jaw-dislocation.md",
+   "source": "msdmanuals.com",
+   "bytes": 2575
+  },
+  {
+   "file": "web/latex-allergy.md",
+   "source": "ada.org",
+   "bytes": 2892
+  },
+  {
+   "file": "web/lip-and-tongue-swelling.md",
+   "source": "msdmanuals.com",
+   "bytes": 2429
+  },
+  {
+   "file": "web/lip-sores-lip-inflammation-and-other-changes.md",
+   "source": "msdmanuals.com",
+   "bytes": 4260
+  },
+  {
+   "file": "web/lip-swelling.md",
+   "source": "msdmanuals.com",
+   "bytes": 5425
+  },
+  {
+   "file": "web/lip-ulcers-and-cheilitis-lip-inflammation.md",
+   "source": "msdmanuals.com",
+   "bytes": 13155
+  },
+  {
+   "file": "web/lips-and-sun-damage.md",
+   "source": "msdmanuals.com",
+   "bytes": 1654
+  },
+  {
+   "file": "web/living-guideline-program.md",
+   "source": "ada.org",
+   "bytes": 2483
+  },
+  {
+   "file": "web/malocclusion.md",
+   "source": "msdmanuals.com",
+   "bytes": 7086
+  },
+  {
+   "file": "web/mandibular-condylar-hyperplasia.md",
+   "source": "msdmanuals.com",
+   "bytes": 3501
+  },
+  {
+   "file": "web/mandibular-condylar-hypoplasia.md",
+   "source": "msdmanuals.com",
+   "bytes": 2164
+  },
+  {
+   "file": "web/mandibular-dislocation.md",
+   "source": "msdmanuals.com",
+   "bytes": 3566
+  },
+  {
+   "file": "web/materials-for-direct-restorations.md",
+   "source": "ada.org",
+   "bytes": 7383
+  },
+  {
+   "file": "web/materials-for-indirect-restorations.md",
+   "source": "ada.org",
+   "bytes": 9219
+  },
+  {
+   "file": "web/medical-emergencies-in-the-dental-office.md",
+   "source": "ada.org",
+   "bytes": 6200
+  },
+  {
+   "file": "web/medication-related-osteonecrosis-of-the-jaw-mronj.md",
+   "source": "msdmanuals.com",
+   "bytes": 6508
+  },
+  {
+   "file": "web/methamphetamine.md",
+   "source": "ada.org",
+   "bytes": 2098
+  },
+  {
+   "file": "web/mouth-growths.md",
+   "source": "msdmanuals.com",
+   "bytes": 12757
+  },
+  {
+   "file": "web/mouth-sores-and-inflammation.md",
+   "source": "msdmanuals.com",
+   "bytes": 19625
+  },
+  {
+   "file": "web/mouthrinse-mouthwash.md",
+   "source": "ada.org",
+   "bytes": 21151
+  },
+  {
+   "file": "web/nitrous-oxide.md",
+   "source": "ada.org",
+   "bytes": 3822
+  },
+  {
+   "file": "web/noma.md",
+   "source": "who.int",
+   "bytes": 10063
+  },
+  {
+   "file": "web/nutrition-and-oral-health.md",
+   "source": "ada.org",
+   "bytes": 31224
+  },
+  {
+   "file": "web/occupational-safety-and-health-administration.md",
+   "source": "ada.org",
+   "bytes": 1846
+  },
+  {
+   "file": "web/oncology-agents-and-medication-related-osteonecrosis-of-the-jaw.md",
+   "source": "ada.org",
+   "bytes": 4379
+  },
+  {
+   "file": "web/opioids-information-dentists.md",
+   "source": "nidcr.nih.gov",
+   "bytes": 20596
+  },
+  {
+   "file": "web/opioids.md",
+   "source": "nidcr.nih.gov",
+   "bytes": 5969
+  },
+  {
+   "file": "web/oral-analgesics-for-acute-dental-pain.md",
+   "source": "ada.org",
+   "bytes": 22606
+  },
+  {
+   "file": "web/oral-anticoagulant-and-antiplatelet-medications-and-dental-procedures.md",
+   "source": "ada.org",
+   "bytes": 3955
+  },
+  {
+   "file": "web/oral-cancer.md",
+   "source": "nidcr.nih.gov",
+   "bytes": 6429
+  },
+  {
+   "file": "web/oral-growths.md",
+   "source": "msdmanuals.com",
+   "bytes": 19976
+  },
+  {
+   "file": "web/oral-health.md",
+   "source": "who.int",
+   "bytes": 4139
+  },
+  {
+   "file": "web/oral-hygiene.md",
+   "source": "nidcr.nih.gov",
+   "bytes": 6625
+  },
+  {
+   "file": "web/oral-piercing-jewelry.md",
+   "source": "ada.org",
+   "bytes": 3543
+  },
+  {
+   "file": "web/oral-systemic-health.md",
+   "source": "ada.org",
+   "bytes": 5978
+  },
+  {
+   "file": "web/osteonecrosis-jaw.md",
+   "source": "nidcr.nih.gov",
+   "bytes": 4035
+  },
+  {
+   "file": "web/osteoporosis-medications.md",
+   "source": "ada.org",
+   "bytes": 26024
+  },
+  {
+   "file": "web/overview-of-dental-emergencies.md",
+   "source": "msdmanuals.com",
+   "bytes": 6574
+  },
+  {
+   "file": "web/overview-of-temporomandibular-disorders-tmds.md",
+   "source": "msdmanuals.com",
+   "bytes": 8877
+  },
+  {
+   "file": "web/overview-of-tooth-disorders.md",
+   "source": "msdmanuals.com",
+   "bytes": 9855
+  },
+  {
+   "file": "web/pain-management-guideline.md",
+   "source": "ada.org",
+   "bytes": 5328
+  },
+  {
+   "file": "web/peri-implant-diseases-and-conditions.md",
+   "source": "msdmanuals.com",
+   "bytes": 2221
+  },
+  {
+   "file": "web/periapical-abscess.md",
+   "source": "msdmanuals.com",
+   "bytes": 2032
+  },
+  {
+   "file": "web/periodontitis.md",
+   "source": "ada.org",
+   "bytes": 19819
+  },
+  {
+   "file": "web/postextraction-problems.md",
+   "source": "msdmanuals.com",
+   "bytes": 9366
+  },
+  {
+   "file": "web/pregnancy.md",
+   "source": "ada.org",
+   "bytes": 2648
+  },
+  {
+   "file": "web/pulpitis.md",
+   "source": "msdmanuals.com",
+   "bytes": 7705
+  },
+  {
+   "file": "web/recurrent-aphthous-stomatitis.md",
+   "source": "msdmanuals.com",
+   "bytes": 9950
+  },
+  {
+   "file": "web/saliva-salivary-gland-disorders.md",
+   "source": "nidcr.nih.gov",
+   "bytes": 7273
+  },
+  {
+   "file": "web/salivary-diagnostics.md",
+   "source": "ada.org",
+   "bytes": 2822
+  },
+  {
+   "file": "web/silver-diamine-fluoride.md",
+   "source": "ada.org",
+   "bytes": 5142
+  },
+  {
+   "file": "web/sjogren-disease.md",
+   "source": "ada.org",
+   "bytes": 15974
+  },
+  {
+   "file": "web/sjogrens-disease.md",
+   "source": "nidcr.nih.gov",
+   "bytes": 6221
+  },
+  {
+   "file": "web/sleep-apnea-obstructive.md",
+   "source": "ada.org",
+   "bytes": 8869
+  },
+  {
+   "file": "web/stomatitis.md",
+   "source": "msdmanuals.com",
+   "bytes": 22104
+  },
+  {
+   "file": "web/sugars-and-dental-caries.md",
+   "source": "who.int",
+   "bytes": 9960
+  },
+  {
+   "file": "web/symptoms-of-dental-and-oral-disorders.md",
+   "source": "msdmanuals.com",
+   "bytes": 1959
+  },
+  {
+   "file": "web/symptoms-of-oral-and-dental-disorders.md",
+   "source": "msdmanuals.com",
+   "bytes": 1785
+  },
+  {
+   "file": "web/systemic-disorders-and-the-mouth.md",
+   "source": "msdmanuals.com",
+   "bytes": 22413
+  },
+  {
+   "file": "web/take-care-of-your-teeth-and-gums.md",
+   "source": "nhs.uk",
+   "bytes": 2069
+  },
+  {
+   "file": "web/taking-care-of-childrens-teeth.md",
+   "source": "nhs.uk",
+   "bytes": 4658
+  },
+  {
+   "file": "web/taste-disorders.md",
+   "source": "nidcr.nih.gov",
+   "bytes": 4571
+  },
+  {
+   "file": "web/teeth-grinding.md",
+   "source": "msdmanuals.com",
+   "bytes": 2772
+  },
+  {
+   "file": "web/temporomandibular-disorders-tmds.md",
+   "source": "msdmanuals.com",
+   "bytes": 27637
+  },
+  {
+   "file": "web/temporomandibular-myofascial-pain-syndrome.md",
+   "source": "msdmanuals.com",
+   "bytes": 11838
+  },
+  {
+   "file": "web/the-story-of-fluoridation.md",
+   "source": "nidcr.nih.gov",
+   "bytes": 11022
+  },
+  {
+   "file": "web/tmd.md",
+   "source": "nidcr.nih.gov",
+   "bytes": 22402
+  },
+  {
+   "file": "web/tobacco-use-and-cessation.md",
+   "source": "ada.org",
+   "bytes": 8975
+  },
+  {
+   "file": "web/tongue-discoloration-and-other-changes.md",
+   "source": "msdmanuals.com",
+   "bytes": 11133
+  },
+  {
+   "file": "web/tongue-discomfort.md",
+   "source": "msdmanuals.com",
+   "bytes": 4549
+  },
+  {
+   "file": "web/tongue-sores-and-bumps.md",
+   "source": "msdmanuals.com",
+   "bytes": 2402
+  },
+  {
+   "file": "web/tongue-trauma.md",
+   "source": "msdmanuals.com",
+   "bytes": 6158
+  },
+  {
+   "file": "web/tooth-decay-process.md",
+   "source": "nidcr.nih.gov",
+   "bytes": 7858
+  },
+  {
+   "file": "web/tooth-decay.md",
+   "source": "nidcr.nih.gov",
+   "bytes": 5673
+  },
+  {
+   "file": "web/toothache-and-infection.md",
+   "source": "msdmanuals.com",
+   "bytes": 18996
+  },
+  {
+   "file": "web/toothache.md",
+   "source": "msdmanuals.com",
+   "bytes": 13904
+  },
+  {
+   "file": "web/toothbrushes.md",
+   "source": "ada.org",
+   "bytes": 2368
+  },
+  {
+   "file": "web/toothpastes.md",
+   "source": "ada.org",
+   "bytes": 2885
+  },
+  {
+   "file": "web/trigeminal-neuralgia.md",
+   "source": "nidcr.nih.gov",
+   "bytes": 8099
+  },
+  {
+   "file": "web/tuberculosis-overview-and-dental-treatment-conside.md",
+   "source": "ada.org",
+   "bytes": 2802
+  },
+  {
+   "file": "web/whitening.md",
+   "source": "ada.org",
+   "bytes": 6482
+  },
+  {
+   "file": "web/x-rays-radiographs.md",
+   "source": "ada.org",
+   "bytes": 26451
+  },
+  {
+   "file": "web/xerostomia.md",
+   "source": "ada.org",
+   "bytes": 6734
+  },
+  {
+   "file": "cjdr/001-Utilisation-of-a-Bioreactor-for-Culture-and-Expansion.md",
+   "source": "cjdr",
+   "bytes": 34311
+  },
+  {
+   "file": "cjdr/002-Understanding-of-Burning-Mouth-Syndrome.md",
+   "source": "cjdr",
+   "bytes": 52501
+  },
+  {
+   "file": "cjdr/003-Sonic-Hedgehog-Signalling-Activation-Contributes.md",
+   "source": "cjdr",
+   "bytes": 34147
+  },
+  {
+   "file": "cjdr/004-Magnetic-Bead-based-Salivary-Peptidome-Profiling.md",
+   "source": "cjdr",
+   "bytes": 29093
+  },
+  {
+   "file": "cjdr/005-Optimal-Matrix-Preparation-Methods-for-Matrix-assisted.md",
+   "source": "cjdr",
+   "bytes": 33675
+  },
+  {
+   "file": "cjdr/006-Magnetic-Resonance-Sialography-and-Salivary-Gland.md",
+   "source": "cjdr",
+   "bytes": 16421
+  },
+  {
+   "file": "cjdr/007-Comparison-of-the-Psychological-Condition.md",
+   "source": "cjdr",
+   "bytes": 24895
+  },
+  {
+   "file": "cjdr/008-Origin-and-Clinical-Applications-of-Neural-Crest-Derived.md",
+   "source": "cjdr",
+   "bytes": 43886
+  },
+  {
+   "file": "cjdr/009-Transcriptomics-and-Functional-Analysis-of-Graphene-Guided.md",
+   "source": "cjdr",
+   "bytes": 34125
+  },
+  {
+   "file": "cjdr/010-Histone-Demethylase-Jmjd7-Negatively-Regulates.md",
+   "source": "cjdr",
+   "bytes": 21938
+  },
+  {
+   "file": "cjdr/011-Nerve-Growth-Factor-Increases-Glutamate-in-Sensory-Fibres.md",
+   "source": "cjdr",
+   "bytes": 27397
+  },
+  {
+   "file": "cjdr/012-Estimate-of-Health-Burden-on-Smoking-associated-Oral-Cancer.md",
+   "source": "cjdr",
+   "bytes": 28797
+  },
+  {
+   "file": "cjdr/013-Osteoblastoma-of-the-Hard-Palate-in-a-Child-A-Rare-Case.md",
+   "source": "cjdr",
+   "bytes": 10546
+  },
+  {
+   "file": "cjdr/014-Discrepancy-of-Clinical-Parameters-between-the-First-and.md",
+   "source": "cjdr",
+   "bytes": 24842
+  },
+  {
+   "file": "cjdr/015-Evaluation-of-Resistin-Levels-in-Saliva-of-Patients.md",
+   "source": "cjdr",
+   "bytes": 14684
+  },
+  {
+   "file": "cjdr/016-Editorial.md",
+   "source": "cjdr",
+   "bytes": 3202
+  },
+  {
+   "file": "cjdr/017-The-4th-National-Oral-Health-Survey-in-the-Mainland.md",
+   "source": "cjdr",
+   "bytes": 21170
+  },
+  {
+   "file": "cjdr/018-Dental-Caries-Status-and-its-Associated-Factors-among-3--to.md",
+   "source": "cjdr",
+   "bytes": 28568
+  },
+  {
+   "file": "cjdr/019-Permanent-Teeth-Caries-Status-of-12--to-15-year-olds-in-Chin.md",
+   "source": "cjdr",
+   "bytes": 32022
+  },
+  {
+   "file": "cjdr/020-Periodontal-Status-of-Chinese-Adolescents.md",
+   "source": "cjdr",
+   "bytes": 27665
+  },
+  {
+   "file": "cjdr/021-The-Prevalence-and-Associated-Risk-Indicators.md",
+   "source": "cjdr",
+   "bytes": 22639
+  },
+  {
+   "file": "cjdr/022-Dental-Caries-in-Chinese-Elderly-People.md",
+   "source": "cjdr",
+   "bytes": 22627
+  },
+  {
+   "file": "cjdr/023-How-Root-Caries-Differs-between-Middle-aged-People.md",
+   "source": "cjdr",
+   "bytes": 28735
+  },
+  {
+   "file": "cjdr/024-Editorial.md",
+   "source": "cjdr",
+   "bytes": 3554
+  },
+  {
+   "file": "cjdr/025-The-Prevalence-and-Associated-Factors-of-Periodontal-Disease.md",
+   "source": "cjdr",
+   "bytes": 21659
+  },
+  {
+   "file": "cjdr/026-Status-of-Tooth-Loss-and-Denture-Restoration-in-Chinese-Adul.md",
+   "source": "cjdr",
+   "bytes": 26108
+  },
+  {
+   "file": "cjdr/027-Factors-Impacting-the-Oral-Health-related-Quality-of-Life-in.md",
+   "source": "cjdr",
+   "bytes": 19051
+  },
+  {
+   "file": "cjdr/028-Utilisation-of-Oral-Health-Services-and-Economic-Burden.md",
+   "source": "cjdr",
+   "bytes": 29100
+  },
+  {
+   "file": "cjdr/029-Oral-Health-Knowledge-Attitudes-Behaviour-and-Oral-Health.md",
+   "source": "cjdr",
+   "bytes": 23560
+  },
+  {
+   "file": "cjdr/030-Report-of-the-National-Investigation-of-Resources.md",
+   "source": "cjdr",
+   "bytes": 35566
+  },
+  {
+   "file": "cjdr/031-Oral-Health-Status-of-12-year-olds-from-Regions-with-and.md",
+   "source": "cjdr",
+   "bytes": 29033
+  },
+  {
+   "file": "cjdr/032-Association-between-Periodontal-Biotype.md",
+   "source": "cjdr",
+   "bytes": 34898
+  },
+  {
+   "file": "cjdr/033-Clinical-Efficiency-and-Patient-Preference-of-Immediate.md",
+   "source": "cjdr",
+   "bytes": 27245
+  },
+  {
+   "file": "cjdr/034-Morphologic-Analysis-of-Maxillary-Sinus-Floor-and-its.md",
+   "source": "cjdr",
+   "bytes": 26701
+  },
+  {
+   "file": "cjdr/035-Statistical-Analysis-of-Current-Oral-Health-Care-and-Dental.md",
+   "source": "cjdr",
+   "bytes": 24967
+  },
+  {
+   "file": "cjdr/036-Cost-effectiveness-Analysis-of-Comprehensive-Oral-Health-Car.md",
+   "source": "cjdr",
+   "bytes": 22509
+  },
+  {
+   "file": "cjdr/037-Diffusion-weighted-Magnetic-Resonance-Imaging.md",
+   "source": "cjdr",
+   "bytes": 20367
+  },
+  {
+   "file": "cjdr/038-Evaluation-of-Paste-Containing-Gentamicin-Amoxicillin.md",
+   "source": "cjdr",
+   "bytes": 22771
+  },
+  {
+   "file": "cjdr/039-Occurrence-of-Maxillary-Central-Diastema.md",
+   "source": "cjdr",
+   "bytes": 15046
+  },
+  {
+   "file": "cjdr/040-Controversies-Regarding-the-Management-of-Teeth-Associated.md",
+   "source": "cjdr",
+   "bytes": 66094
+  },
+  {
+   "file": "cjdr/041-Applications-of-Bioactive-Ions-in-Bone-Regeneration.md",
+   "source": "cjdr",
+   "bytes": 49592
+  },
+  {
+   "file": "cjdr/042-Periodontal-Commensals-and-Pathogens-Differentially-Modulate.md",
+   "source": "cjdr",
+   "bytes": 30805
+  },
+  {
+   "file": "cjdr/043-Morphological-Changes-of-the-Root-Apex-in-Permanent-Teeth.md",
+   "source": "cjdr",
+   "bytes": 34460
+  },
+  {
+   "file": "cjdr/044-Effects-of-Premature-Delivery-and-Birth-Weight-on-Eruption.md",
+   "source": "cjdr",
+   "bytes": 23985
+  },
+  {
+   "file": "cjdr/045-Mineralisation-Influence-of-Betamethasone.md",
+   "source": "cjdr",
+   "bytes": 25209
+  },
+  {
+   "file": "cjdr/046-Endodontic-Anatomy-of-Human-Mandibular-Canines.md",
+   "source": "cjdr",
+   "bytes": 16701
+  },
+  {
+   "file": "cjdr/047-Oral-Squamous-Cell-Carcinoma-with-Metastasis.md",
+   "source": "cjdr",
+   "bytes": 21066
+  },
+  {
+   "file": "cjdr/048-Local-Administration-of-Stem-Cells-from-Human-Exfoliated.md",
+   "source": "cjdr",
+   "bytes": 27379
+  },
+  {
+   "file": "cjdr/049-Changes-of-Microbial-Community-in-Treated-Peri-implantitis.md",
+   "source": "cjdr",
+   "bytes": 38202
+  },
+  {
+   "file": "cjdr/050-Effect-of-Provisional-Restorations-with-Ovate-Pontics-on.md",
+   "source": "cjdr",
+   "bytes": 29483
+  },
+  {
+   "file": "cjdr/051-Effects-of-Different-Root-Canal-Obturation-Techniques.md",
+   "source": "cjdr",
+   "bytes": 31765
+  },
+  {
+   "file": "cjdr/052-Fracture-Resistance-of-Roots-in-Mandibular-Premolars.md",
+   "source": "cjdr",
+   "bytes": 20503
+  },
+  {
+   "file": "cjdr/053-Effects-of-Periodontal-Intervention-on-Levels-of-Serum-Highs.md",
+   "source": "cjdr",
+   "bytes": 29481
+  },
+  {
+   "file": "cjdr/054-Combination-of-Pan-HDAC-Inhibitor-and-COX-2-Inhibitor.md",
+   "source": "cjdr",
+   "bytes": 26768
+  },
+  {
+   "file": "cjdr/055-Evaluation-of-Periodontal-Status-after-Orthodontic-Treatment.md",
+   "source": "cjdr",
+   "bytes": 37480
+  },
+  {
+   "file": "cjdr/056-Prevalence-and-Morphology-of-Mandibular-Incisive-Canal.md",
+   "source": "cjdr",
+   "bytes": 35716
+  },
+  {
+   "file": "cjdr/057-Prevalence-of-Caries-in-Mainland-China-Evidence-from-1980.md",
+   "source": "cjdr",
+   "bytes": 50087
+  },
+  {
+   "file": "cjdr/058-Survival-of-Titanium-Zirconium-and-Titanium-Dental-Implants.md",
+   "source": "cjdr",
+   "bytes": 31156
+  },
+  {
+   "file": "cjdr/059-Effect-of-Silver-Fluoride-in-Preventing-the-Formation.md",
+   "source": "cjdr",
+   "bytes": 36835
+  },
+  {
+   "file": "cjdr/060-Occlusal-Rehabilitation-in-a-Patient-with-Oligodontia-and.md",
+   "source": "cjdr",
+   "bytes": 16595
+  },
+  {
+   "file": "cjdr/061-Roles-of-Proteoglycans-in-the-Tumourigenesis-and-Development.md",
+   "source": "cjdr",
+   "bytes": 86371
+  },
+  {
+   "file": "cjdr/062-Expert-Consensus-on-Procedures-and-Operations-of-Navigationg.md",
+   "source": "cjdr",
+   "bytes": 20286
+  },
+  {
+   "file": "cjdr/063-Expert-Consensus-for-the-Treatment-Algorithm-for-Navigationa.md",
+   "source": "cjdr",
+   "bytes": 25713
+  },
+  {
+   "file": "cjdr/064-Expert-Consensus-on-Navigation-guided-Unilateral-Orbital.md",
+   "source": "cjdr",
+   "bytes": 16342
+  },
+  {
+   "file": "cjdr/065-Expert-Consensus-on-Navigation-guided-Unilateral-Delayed.md",
+   "source": "cjdr",
+   "bytes": 16944
+  },
+  {
+   "file": "cjdr/066-Experience-of-Diagnosing-and-Managing-Patients-in-Oral.md",
+   "source": "cjdr",
+   "bytes": 19381
+  },
+  {
+   "file": "cjdr/067-Effects-of-Different-Polishing-Protocols-and-Curing-Time-on.md",
+   "source": "cjdr",
+   "bytes": 28603
+  },
+  {
+   "file": "cjdr/068-Endoscope-assisted-Surgery-in-the-Treatment-of-Dentigerous.md",
+   "source": "cjdr",
+   "bytes": 18447
+  },
+  {
+   "file": "cjdr/069-Analysis-of-Coding-RNA-and-LncRNA-Expression-Profile-of.md",
+   "source": "cjdr",
+   "bytes": 29061
+  },
+  {
+   "file": "cjdr/070-Microbiota-Regulates-Dentine-Mineralisation-and.md",
+   "source": "cjdr",
+   "bytes": 22335
+  },
+  {
+   "file": "cjdr/071-3D-Evaluation-of-Accuracy-of-Tooth-Preparation-for-Laminate.md",
+   "source": "cjdr",
+   "bytes": 27511
+  },
+  {
+   "file": "cjdr/072-Root-Canal-Morphology-of-Mandibular-Incisors-with-Double.md",
+   "source": "cjdr",
+   "bytes": 23210
+  },
+  {
+   "file": "cjdr/073-Biomarkers-in-Metabolic-Syndrome-Patients-with-Chronic.md",
+   "source": "cjdr",
+   "bytes": 26491
+  },
+  {
+   "file": "cjdr/074-Is-Intentional-Replantation-Appropriate-for-Treatment.md",
+   "source": "cjdr",
+   "bytes": 28092
+  },
+  {
+   "file": "cjdr/075-Functional-Aesthetic-Rehabilitation-of-a-Patient-with-Dental.md",
+   "source": "cjdr",
+   "bytes": 12939
+  },
+  {
+   "file": "cjdr/076-Accuracy-of-Intraoral-Scanning-of-Edentulous-Jaws-with-and.md",
+   "source": "cjdr",
+   "bytes": 29745
+  },
+  {
+   "file": "cjdr/077-Delayed-Foreign-Body-Granulomas-in-the-Orofacial-Region.md",
+   "source": "cjdr",
+   "bytes": 31687
+  },
+  {
+   "file": "cjdr/078-Developments-in-Antibacterial-Therapy-Focus-on-Physical.md",
+   "source": "cjdr",
+   "bytes": 89094
+  },
+  {
+   "file": "cjdr/079-Editorial.md",
+   "source": "cjdr",
+   "bytes": 4371
+  },
+  {
+   "file": "cjdr/080-Influence-of-CYP1A1-rs1048943-on-Short--and-Long-term.md",
+   "source": "cjdr",
+   "bytes": 26399
+  },
+  {
+   "file": "cjdr/081-Role-play-in-Endodontic-Teaching-a-Case-Study.md",
+   "source": "cjdr",
+   "bytes": 32576
+  },
+  {
+   "file": "cjdr/082-Severe-Open-Bite-Correction-and-5-mm-Mandibular-Arch.md",
+   "source": "cjdr",
+   "bytes": 25833
+  },
+  {
+   "file": "cjdr/083-Transmandibular-Approach-in-Head-and-Neck-Oncological.md",
+   "source": "cjdr",
+   "bytes": 27573
+  },
+  {
+   "file": "cjdr/084-Stem-Cells-from-Dental-Pulp-of-Human-Exfoliated-Teeth.md",
+   "source": "cjdr",
+   "bytes": 54362
+  },
+  {
+   "file": "cjdr/085-Survivin-Inhibition-Induces-Cell-Cycle-Arrest-and-Disrupts.md",
+   "source": "cjdr",
+   "bytes": 39387
+  },
+  {
+   "file": "cjdr/086-Osteogenesis-Osteoclastogenesis-and-their-Crosstalk-in.md",
+   "source": "cjdr",
+   "bytes": 25595
+  },
+  {
+   "file": "cjdr/087-Recapitulating-Developmental-Condensation-and-Constructing.md",
+   "source": "cjdr",
+   "bytes": 27034
+  },
+  {
+   "file": "cjdr/088-Determination-of-Root-Canal-Length-Up-to-Perforation-Area.md",
+   "source": "cjdr",
+   "bytes": 28608
+  },
+  {
+   "file": "cjdr/089-Validation-of-Digital-Evaluation-in-Systematic-Training-on.md",
+   "source": "cjdr",
+   "bytes": 20164
+  },
+  {
+   "file": "cjdr/090-Diagnostic-Testing-Using-Pterygomaxillary-Notches-and.md",
+   "source": "cjdr",
+   "bytes": 22073
+  },
+  {
+   "file": "cjdr/091-Effect-of-Different-Irrigation-Activation-Techniques-on-Seal.md",
+   "source": "cjdr",
+   "bytes": 23602
+  },
+  {
+   "file": "cjdr/092-Effects-of-Surface-Treatment-Procedures-on-Bond-Strength-of.md",
+   "source": "cjdr",
+   "bytes": 24778
+  },
+  {
+   "file": "cjdr/093-Comparison-of-Two-Post-Preparation-Methods-in-Mandibular.md",
+   "source": "cjdr",
+   "bytes": 29515
+  },
+  {
+   "file": "cjdr/094-Endoplasmic-Reticulum-and-Its-Significance-in-Periodontal.md",
+   "source": "cjdr",
+   "bytes": 28478
+  },
+  {
+   "file": "cjdr/095-Associated-Factors-of-Oral-Health-related-Quality-of-Life-in.md",
+   "source": "cjdr",
+   "bytes": 33210
+  },
+  {
+   "file": "cjdr/096-The-Crucial-Role-of-Wntless-in-Osteogenesis-and.md",
+   "source": "cjdr",
+   "bytes": 46367
+  },
+  {
+   "file": "cjdr/097-Prevalence-and-Associated-Factors-of-Tooth-Wear-in-Shanghai.md",
+   "source": "cjdr",
+   "bytes": 35649
+  },
+  {
+   "file": "cjdr/098-Function-of-Orofacial-Stem-Cells-in-Tooth-Eruption.md",
+   "source": "cjdr",
+   "bytes": 53233
+  },
+  {
+   "file": "cjdr/099-Osteogenic-Induction-of-Low-dose-Ipriflavone-on-Bone-Marrow.md",
+   "source": "cjdr",
+   "bytes": 21197
+  },
+  {
+   "file": "cjdr/100-Subgingival-Microbial-Profiles-of-Young-Chinese-Adults-with.md",
+   "source": "cjdr",
+   "bytes": 37258
+  },
+  {
+   "file": "cjdr/101-Application-of-a-New-Microtensile-Bond-Strength-Testing.md",
+   "source": "cjdr",
+   "bytes": 31475
+  },
+  {
+   "file": "cjdr/102-Lateral-Lingual-Foramina-and-Canals-in-the-Mandible.md",
+   "source": "cjdr",
+   "bytes": 26372
+  },
+  {
+   "file": "cjdr/103-3D-Digital-Evaluation-for-Direct-Composite-Restoration-Using.md",
+   "source": "cjdr",
+   "bytes": 18353
+  },
+  {
+   "file": "cjdr/104-Multilevel-Analysis-of-Non-surgical-Periodontal-Treatment-of.md",
+   "source": "cjdr",
+   "bytes": 30739
+  },
+  {
+   "file": "cjdr/105-Double-Gemination-or-Fusion-of-a-Permanent-Mandibular.md",
+   "source": "cjdr",
+   "bytes": 12416
+  },
+  {
+   "file": "cjdr/106-Editorial.md",
+   "source": "cjdr",
+   "bytes": 3560
+  },
+  {
+   "file": "cjdr/107-Microspheres-and-their-Potential-in-Endodontic-Regeneration.md",
+   "source": "cjdr",
+   "bytes": 35966
+  },
+  {
+   "file": "cjdr/108-Emerging-Role-of-High-Glucose-Levels-in-Cancer-Progression.md",
+   "source": "cjdr",
+   "bytes": 46978
+  },
+  {
+   "file": "cjdr/109-Exploration-of-Genetic-Variants-of-Non-syndromic-Cleft-Lip.md",
+   "source": "cjdr",
+   "bytes": 27288
+  },
+  {
+   "file": "cjdr/110-Accuracy-of-Mandibular-Reconstruction-with-a-Vascularised.md",
+   "source": "cjdr",
+   "bytes": 31720
+  },
+  {
+   "file": "cjdr/111-Relationship-between-Presence-of-Third-Molars-and-Prevalence.md",
+   "source": "cjdr",
+   "bytes": 38464
+  },
+  {
+   "file": "cjdr/112-Near-Infrared-Laser-Photobiomodulation-of-Periodontal.md",
+   "source": "cjdr",
+   "bytes": 37304
+  },
+  {
+   "file": "cjdr/113-Management-of-Separated-Instruments-Extruded-into-the.md",
+   "source": "cjdr",
+   "bytes": 28663
+  },
+  {
+   "file": "cjdr/114-Analysis-of-Coding-RNA-and-LncRNA-Expression-Profile-of.md",
+   "source": "cjdr",
+   "bytes": 29061
+  },
+  {
+   "file": "cjdr/115-Biomarkers-in-Metabolic-Syndrome-Patients-with-Chronic.md",
+   "source": "cjdr",
+   "bytes": 26491
+  },
+  {
+   "file": "cjdr/116-Microbiota-Regulates-Dentine-Mineralisation-and.md",
+   "source": "cjdr",
+   "bytes": 22335
+  },
+  {
+   "file": "cjdr/117-3D-Evaluation-of-Accuracy-of-Tooth-Preparation-for-Laminate.md",
+   "source": "cjdr",
+   "bytes": 27511
+  },
+  {
+   "file": "cjdr/118-Root-Canal-Morphology-of-Mandibular-Incisors-with-Double.md",
+   "source": "cjdr",
+   "bytes": 23210
+  },
+  {
+   "file": "cjdr/119-Is-Intentional-Replantation-Appropriate-for-Treatment.md",
+   "source": "cjdr",
+   "bytes": 28092
+  },
+  {
+   "file": "cjdr/120-Functional-Aesthetic-Rehabilitation-of-a-Patient-with-Dental.md",
+   "source": "cjdr",
+   "bytes": 12939
+  },
+  {
+   "file": "cjdr/121-Growth-Factors-in-Periodontal-Complex-Regeneration.md",
+   "source": "cjdr",
+   "bytes": 36156
+  },
+  {
+   "file": "cjdr/122-Maxillary-Sinus-Floor-Augmentation-with-Two-Different.md",
+   "source": "cjdr",
+   "bytes": 48227
+  },
+  {
+   "file": "cjdr/123-Structure-and-Composition-of-Candidate-Phyla-Radiation-in.md",
+   "source": "cjdr",
+   "bytes": 44885
+  },
+  {
+   "file": "cjdr/124-Age-Estimation-using-Panoramic-Radiographs-by-Transfer.md",
+   "source": "cjdr",
+   "bytes": 20784
+  },
+  {
+   "file": "cjdr/125-A-MicroCT-Study-on-Mineral-Change-over-Time-Associated.md",
+   "source": "cjdr",
+   "bytes": 22953
+  },
+  {
+   "file": "cjdr/126-Polyetheretherketone-Framework-for-Implant-supported-Fullarc.md",
+   "source": "cjdr",
+   "bytes": 33093
+  },
+  {
+   "file": "cjdr/127-Relationship-between-Chewing-Sugar-free-Gum-and-Dental.md",
+   "source": "cjdr",
+   "bytes": 28484
+  },
+  {
+   "file": "cjdr/128-A-Scoping-Review-about-Migrants-Oral-Health-in-South-South.md",
+   "source": "cjdr",
+   "bytes": 42242
+  },
+  {
+   "file": "cjdr/129-Features-of-the-Sensorimotor-Cortex-Altered-after-Tooth-Loss.md",
+   "source": "cjdr",
+   "bytes": 33411
+  },
+  {
+   "file": "cjdr/130-DENG.md",
+   "source": "cjdr",
+   "bytes": 4314
+  },
+  {
+   "file": "cjdr/131-Comparative-Study-of-Temporomandibular-Articular-Fossa.md",
+   "source": "cjdr",
+   "bytes": 32961
+  },
+  {
+   "file": "cjdr/132-Prevalence-of-Dental-Anomalies-Assessed-Using-Panoramic.md",
+   "source": "cjdr",
+   "bytes": 30972
+  },
+  {
+   "file": "cjdr/133-Impact-of-Fracture-Line-Width-on-Radiographic-Diagnosis.md",
+   "source": "cjdr",
+   "bytes": 30452
+  },
+  {
+   "file": "cjdr/134-Impact-of-Social-Support-on-Perceived-Stress-in-Latin.md",
+   "source": "cjdr",
+   "bytes": 29228
+  },
+  {
+   "file": "cjdr/135-Scanning-Accuracy-of-10-Intraoral-Scanners-for-Single-crown.md",
+   "source": "cjdr",
+   "bytes": 25565
+  },
+  {
+   "file": "cjdr/136-Comparison-of-the-Relationship-between-Temporomandibular.md",
+   "source": "cjdr",
+   "bytes": 39226
+  },
+  {
+   "file": "cjdr/137-A-Single-Visit-Technique-for-Fabricating-Interim-Immediately.md",
+   "source": "cjdr",
+   "bytes": 18307
+  },
+  {
+   "file": "cjdr/138-Status-Quo-and-Advanced-Progress-in-Oral-Health-Care-and.md",
+   "source": "cjdr",
+   "bytes": 41473
+  },
+  {
+   "file": "cjdr/139-Sappanone-A-Aggrandises-Ionising-Radiationinduced-Damage.md",
+   "source": "cjdr",
+   "bytes": 22977
+  },
+  {
+   "file": "cjdr/140-Comments-on-Sappanone-A-Aggrandises-Ionising.md",
+   "source": "cjdr",
+   "bytes": 3229
+  },
+  {
+   "file": "cjdr/141-MiR-146a-5p-Promotes-Dental-Stem-Cells-Osteoodontogenic.md",
+   "source": "cjdr",
+   "bytes": 25188
+  },
+  {
+   "file": "cjdr/142-Prefabricating-Implant-supported-Interim-Prosthesis-from.md",
+   "source": "cjdr",
+   "bytes": 18244
+  },
+  {
+   "file": "cjdr/143-Correlation-Analysis-between-Self-perceived-Oral-Health-and.md",
+   "source": "cjdr",
+   "bytes": 24619
+  },
+  {
+   "file": "cjdr/144-Orthodontic-and-Orthognathic-Treatment-Combined-with.md",
+   "source": "cjdr",
+   "bytes": 25083
+  },
+  {
+   "file": "cjdr/145-Editorial.md",
+   "source": "cjdr",
+   "bytes": 3506
+  },
+  {
+   "file": "cjdr/146-Interactions-between-Orthodontic-Treatment-and-Gingival.md",
+   "source": "cjdr",
+   "bytes": 38979
+  },
+  {
+   "file": "cjdr/147-Hydrogen-Sulphide-Alleviates-Senescence-of-Human.md",
+   "source": "cjdr",
+   "bytes": 31837
+  },
+  {
+   "file": "cjdr/148-Evaluation-of-Extension-Type-of-Canalis-Sinuosus-in-the.md",
+   "source": "cjdr",
+   "bytes": 23063
+  },
+  {
+   "file": "cjdr/149-Effect-of-Premolar-Extraction-on-the-Upper-Airway-in-Adult.md",
+   "source": "cjdr",
+   "bytes": 36255
+  },
+  {
+   "file": "cjdr/150-Effect-of-Different-Obturation-Techniques-on-Sealer.md",
+   "source": "cjdr",
+   "bytes": 23461
+  },
+  {
+   "file": "cjdr/151-Management-of-Crown-root-Fracture-with-180-degree.md",
+   "source": "cjdr",
+   "bytes": 22720
+  },
+  {
+   "file": "cjdr/152-Small-Molecule-Nitazoxanide-Inhibits-Osteogenic.md",
+   "source": "cjdr",
+   "bytes": 25812
+  },
+  {
+   "file": "cjdr/153-Complications-and-Peri-operative-Characteristics-of-Flaps.md",
+   "source": "cjdr",
+   "bytes": 25445
+  },
+  {
+   "file": "cjdr/154-Evolutionary-and-Pan-genome-Analysis-of-Three-Important.md",
+   "source": "cjdr",
+   "bytes": 46274
+  },
+  {
+   "file": "cjdr/155-Quantitative-Assessment-of-Dimensional-Evaluation-and.md",
+   "source": "cjdr",
+   "bytes": 33327
+  },
+  {
+   "file": "cjdr/156-Application-Value-of-64-slice-Multidetector-Spiral-CT.md",
+   "source": "cjdr",
+   "bytes": 26309
+  },
+  {
+   "file": "cjdr/157-Novel-Digital-Mouth-Preparation-Technique-for-Fabricating.md",
+   "source": "cjdr",
+   "bytes": 14589
+  },
+  {
+   "file": "cjdr/158-Role-of-Dental-Pulp-Stem-Cells-to-Promote-Angiogenesis.md",
+   "source": "cjdr",
+   "bytes": 54902
+  },
+  {
+   "file": "cjdr/159-Unique-Features-of-Nanomaterials-and-their-Combination.md",
+   "source": "cjdr",
+   "bytes": 48759
+  },
+  {
+   "file": "cjdr/160-Stem-Cells-from-Human-Exfoliated-Deciduous-Teeth.md",
+   "source": "cjdr",
+   "bytes": 36649
+  },
+  {
+   "file": "cjdr/161-Saliva-Levels-of-Adrenergic-Receptors-in-Relation-to.md",
+   "source": "cjdr",
+   "bytes": 24969
+  },
+  {
+   "file": "cjdr/162-Oral-Health-Status-of-Disabled-Children-and-Adolescents.md",
+   "source": "cjdr",
+   "bytes": 16675
+  },
+  {
+   "file": "cjdr/163-Effect-of-Dentine-Conditioning-with-Silver-Diamine-Fluoride.md",
+   "source": "cjdr",
+   "bytes": 25159
+  },
+  {
+   "file": "cjdr/164-Research-Models-in-Dentine-Development-and-Regeneration.md",
+   "source": "cjdr",
+   "bytes": 69640
+  },
+  {
+   "file": "cjdr/165-Evaluation-of-Sealer-Remnants-Using-a-Bioceramic-Sealer.md",
+   "source": "cjdr",
+   "bytes": 33068
+  },
+  {
+   "file": "cjdr/166-Effect-of-Intact-Periosteum-on-Alveolar-Ridge-Contour.md",
+   "source": "cjdr",
+   "bytes": 27369
+  },
+  {
+   "file": "cjdr/167-Sixteen-Cellular-Senescenceassociated-DNA-Methylation.md",
+   "source": "cjdr",
+   "bytes": 48552
+  },
+  {
+   "file": "cjdr/168-Comparison-of-Powered-versus-Manual-Tooth-Brushing.md",
+   "source": "cjdr",
+   "bytes": 27879
+  },
+  {
+   "file": "cjdr/169-Clear-Cell-Renal-Cell-Carcinoma-Metastatic-to-the-Mandible.md",
+   "source": "cjdr",
+   "bytes": 19492
+  },
+  {
+   "file": "cjdr/170-Guideline-for-the-Diagnosis-and-Clinical-Management.md",
+   "source": "cjdr",
+   "bytes": 62905
+  },
+  {
+   "file": "cjdr/171-Review-on-the-Role-of-IRF6-in-the-Pathogenesis.md",
+   "source": "cjdr",
+   "bytes": 46464
+  },
+  {
+   "file": "cjdr/172-Characteristic-and-Import-Mechanism-of-Protein-Nuclear.md",
+   "source": "cjdr",
+   "bytes": 34835
+  },
+  {
+   "file": "cjdr/173-Distinctive-Craniofacial-and-Oral-Anomalies-in-MN1.md",
+   "source": "cjdr",
+   "bytes": 22608
+  },
+  {
+   "file": "cjdr/174-FAM20A-Associated-Amelogenesis-Imperfecta-Gene.md",
+   "source": "cjdr",
+   "bytes": 34344
+  },
+  {
+   "file": "cjdr/175-Integrative-Multi-omics-Analysis-Identifies-Genetic-Variants.md",
+   "source": "cjdr",
+   "bytes": 29447
+  },
+  {
+   "file": "cjdr/176-Knowledge-Mapping-of-Cowden-Syndrome.md",
+   "source": "cjdr",
+   "bytes": 25824
+  },
+  {
+   "file": "cjdr/177-Novel-PTCH1-Mutation-Causes-Gorlin-Goltz-Syndrome.md",
+   "source": "cjdr",
+   "bytes": 19962
+  },
+  {
+   "file": "cjdr/178-Clinical-and-Genetic-Analysis-of-Multiple-Idiopathic.md",
+   "source": "cjdr",
+   "bytes": 35768
+  },
+  {
+   "file": "cjdr/179-Hub-Genes-Possible-Pathways-and-Predicted-Drugs-in.md",
+   "source": "cjdr",
+   "bytes": 27276
+  },
+  {
+   "file": "cjdr/180-Editorial.md",
+   "source": "cjdr",
+   "bytes": 4254
+  },
+  {
+   "file": "cjdr/181-Extracellular-Matrix-Remodelling-of-the-Periodontium.md",
+   "source": "cjdr",
+   "bytes": 44555
+  },
+  {
+   "file": "cjdr/182-Identification-of-Cuproptosis-related-Gene.md",
+   "source": "cjdr",
+   "bytes": 28751
+  },
+  {
+   "file": "cjdr/183-Effect-of-Dental-Implant-SystemAssisted-Tooth-Intentional.md",
+   "source": "cjdr",
+   "bytes": 27319
+  },
+  {
+   "file": "cjdr/184-Dental-Fear-and-Caries-in-6--to-12-Year-Old-Children-a.md",
+   "source": "cjdr",
+   "bytes": 30674
+  },
+  {
+   "file": "cjdr/185-Effect-of-Different-Adhesive-Resin-and-Composite-Veneering.md",
+   "source": "cjdr",
+   "bytes": 36159
+  },
+  {
+   "file": "cjdr/186-Sustained-Release-of-Liposomal-Curcumin-Enhanced.md",
+   "source": "cjdr",
+   "bytes": 23075
+  },
+  {
+   "file": "cjdr/187-Preservation-of-Pulp-Vitality-in-Type-IIIA-Dens-Invaginatus.md",
+   "source": "cjdr",
+   "bytes": 28631
+  },
+  {
+   "file": "cjdr/188-Salivary-Short-chain-Fatty-Acids-SCFAs-Are-Viable.md",
+   "source": "cjdr",
+   "bytes": 43882
+  },
+  {
+   "file": "cjdr/189-CB1-Promotes-Osteogenic-Differentiation-Potential.md",
+   "source": "cjdr",
+   "bytes": 40682
+  },
+  {
+   "file": "cjdr/190-GREM1-Negatively-Regulates-Osteo-Dentinogenic.md",
+   "source": "cjdr",
+   "bytes": 34406
+  },
+  {
+   "file": "cjdr/191-PHD2-shRNA-Modified-Bone-Marrow-Mesenchymal-Stem.md",
+   "source": "cjdr",
+   "bytes": 33695
+  },
+  {
+   "file": "cjdr/192-Establishment-of-an-Animal-Model-of-Oral-Squamous-Cell.md",
+   "source": "cjdr",
+   "bytes": 25956
+  },
+  {
+   "file": "cjdr/193-Role-of-Antioxidant-Enzymes-in-Pathogenesis-of-Oral.md",
+   "source": "cjdr",
+   "bytes": 30898
+  },
+  {
+   "file": "cjdr/194-Application-of-Chairside-CADCAM-and-Its-Influencing.md",
+   "source": "cjdr",
+   "bytes": 38800
+  },
+  {
+   "file": "cjdr/195-Tooth-Root-Development-and-Homeostasis-during-Eruptive.md",
+   "source": "cjdr",
+   "bytes": 76249
+  },
+  {
+   "file": "cjdr/196-SIRT2-Mediated-Microtubule-Acetylation-in-Osteogenic.md",
+   "source": "cjdr",
+   "bytes": 31197
+  },
+  {
+   "file": "cjdr/197-The-Application-of-Salivary-Exosomes-in-the-Diagnosis-of.md",
+   "source": "cjdr",
+   "bytes": 47820
+  },
+  {
+   "file": "cjdr/198-Localisation-of-the-Infraorbital-and-Mental-Foramen-in.md",
+   "source": "cjdr",
+   "bytes": 23360
+  },
+  {
+   "file": "cjdr/199-Comparison-of-Low-speed-Drilling-and-Conventional.md",
+   "source": "cjdr",
+   "bytes": 26880
+  },
+  {
+   "file": "cjdr/200-Prevalence-and-Characteristics-of-Taurodontism-in-Patients.md",
+   "source": "cjdr",
+   "bytes": 23713
+  },
+  {
+   "file": "cjdr/201-Orthodontic-Treatment-of-an-Adult-Maxillomandibular.md",
+   "source": "cjdr",
+   "bytes": 29480
+  },
+  {
+   "file": "cjdr/202-Dynamic-Balance-of-Non-collagenous-Proteins-in-Dentine.md",
+   "source": "cjdr",
+   "bytes": 45234
+  },
+  {
+   "file": "cjdr/203-Comprehensive-Management-of-Impacted-Teeth-in-Cystic.md",
+   "source": "cjdr",
+   "bytes": 56604
+  },
+  {
+   "file": "cjdr/204-Analysis-of-Differential-Translation-Profiles-of-Human.md",
+   "source": "cjdr",
+   "bytes": 43121
+  },
+  {
+   "file": "cjdr/205-Monitoring-Role-of-Non-invasive-Examinations-on-the.md",
+   "source": "cjdr",
+   "bytes": 36480
+  },
+  {
+   "file": "cjdr/206-Eruption-Status-and-Caries-Condition-of-the-First.md",
+   "source": "cjdr",
+   "bytes": 20702
+  },
+  {
+   "file": "cjdr/207-Role-of-Biosynthetic-Gene-Cluster-BGC3-in-the-Cariogenic.md",
+   "source": "cjdr",
+   "bytes": 26708
+  },
+  {
+   "file": "cjdr/208-Oral-Microbiota-Profiling-by-CLIN-MALDI-TOF-MS-Distinct.md",
+   "source": "cjdr",
+   "bytes": 33446
+  },
+  {
+   "file": "cjdr/209-Lineage-Tracing-Identified-Cell-Populations-within-Adult.md",
+   "source": "cjdr",
+   "bytes": 73774
+  },
+  {
+   "file": "cjdr/210-Periodontitis-Exacerbates-Cognitive-Impairment-via.md",
+   "source": "cjdr",
+   "bytes": 33520
+  },
+  {
+   "file": "cjdr/211-Impact-of-Nanofiller-Fractions-on-Selected-Properties-of.md",
+   "source": "cjdr",
+   "bytes": 30799
+  },
+  {
+   "file": "cjdr/212-A-New-Classification-System-for-Alveolar-Bone-Morphology.md",
+   "source": "cjdr",
+   "bytes": 28653
+  },
+  {
+   "file": "cjdr/213-Mandibular-Osteonecrosis-Involving-Tooth-Germ-in.md",
+   "source": "cjdr",
+   "bytes": 14337
+  },
+  {
+   "file": "cjdr/214-Assessment-of-the-Canalis-Sinuosus-Using-CBCT-in.md",
+   "source": "cjdr",
+   "bytes": 24451
+  },
+  {
+   "file": "cjdr/215-Evaluation-of-Periapical-Healing-Outcomes-of-Single-visit.md",
+   "source": "cjdr",
+   "bytes": 29280
+  },
+  {
+   "file": "cjdr/216-Biomimetic-Mineralisation-Nature-inspired-Strategy.md",
+   "source": "cjdr",
+   "bytes": 49546
+  },
+  {
+   "file": "cjdr/217-Periodontitis-induced-Systemic-Multi-organ-Aging-Mediated.md",
+   "source": "cjdr",
+   "bytes": 20986
+  },
+  {
+   "file": "cjdr/218-miR-192-5p-Inhibits-Osteo-odontogenic-Differentiation-in.md",
+   "source": "cjdr",
+   "bytes": 36516
+  },
+  {
+   "file": "cjdr/219-Association-between-Periodontitis-and-Systemic-Diseases.md",
+   "source": "cjdr",
+   "bytes": 30449
+  },
+  {
+   "file": "cjdr/220-Influence-of-Depth-and-Choice-of-Operating-Instruments-on.md",
+   "source": "cjdr",
+   "bytes": 35320
+  },
+  {
+   "file": "cjdr/221-Prevalence-and-Morphological-Characteristics-of-Canalis.md",
+   "source": "cjdr",
+   "bytes": 25526
+  },
+  {
+   "file": "cjdr/222-Non-surgical-Management-of-a-Facial-Sinus-Tract-Originated.md",
+   "source": "cjdr",
+   "bytes": 14952
+  },
+  {
+   "file": "pmc/orthodontics/PMC11065214.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 15252
+  },
+  {
+   "file": "pmc/orthodontics/PMC11086441.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 9567
+  },
+  {
+   "file": "pmc/orthodontics/PMC11580245.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 22162
+  },
+  {
+   "file": "pmc/orthodontics/PMC12093318.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 29950
+  },
+  {
+   "file": "pmc/orthodontics/PMC4743120.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 53582
+  },
+  {
+   "file": "pmc/orthodontics/PMC5237268.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 21647
+  },
+  {
+   "file": "pmc/orthodontics/PMC7995767.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 29791
+  },
+  {
+   "file": "pmc/endodontics/PMC12117248.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 21496
+  },
+  {
+   "file": "pmc/endodontics/PMC12548661.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 62768
+  },
+  {
+   "file": "pmc/endodontics/PMC12912653.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 17343
+  },
+  {
+   "file": "pmc/endodontics/PMC12968732.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 59621
+  },
+  {
+   "file": "pmc/endodontics/PMC13000699.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 36954
+  },
+  {
+   "file": "pmc/endodontics/PMC6283129.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 18996
+  },
+  {
+   "file": "pmc/endodontics/PMC7374232.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 20480
+  },
+  {
+   "file": "pmc/endodontics/PMC7490960.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 20568
+  },
+  {
+   "file": "pmc/endodontics/PMC7850771.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 9569
+  },
+  {
+   "file": "pmc/endodontics/PMC8238317.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 11098
+  },
+  {
+   "file": "pmc/endodontics/PMC9804993.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 88021
+  },
+  {
+   "file": "pmc/oral-mucosal/PMC11311843.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 63801
+  },
+  {
+   "file": "pmc/oral-mucosal/PMC13355946.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 106178
+  },
+  {
+   "file": "pmc/oral-mucosal/PMC6320145.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 9439
+  },
+  {
+   "file": "pmc/oral-mucosal/PMC7535852.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 12281
+  },
+  {
+   "file": "pmc/oral-mucosal/PMC7710173.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 12520
+  },
+  {
+   "file": "pmc/oral-mucosal/PMC8830842.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 18474
+  },
+  {
+   "file": "pmc/oral-mucosal/PMC9565507.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 30819
+  },
+  {
+   "file": "pmc/oral-mucosal/PMC9658487.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 60346
+  },
+  {
+   "file": "pmc/oral-mucosal/PMC9727591.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 5991
+  },
+  {
+   "file": "pmc/caries/PMC10653397.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 41859
+  },
+  {
+   "file": "pmc/caries/PMC11182643.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 35083
+  },
+  {
+   "file": "pmc/caries/PMC11551568.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 25809
+  },
+  {
+   "file": "pmc/caries/PMC3881834.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 23320
+  },
+  {
+   "file": "pmc/caries/PMC5657131.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 16650
+  },
+  {
+   "file": "pmc/caries/PMC8835154.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 25954
+  },
+  {
+   "file": "pmc/implant/PMC10467313.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 25218
+  },
+  {
+   "file": "pmc/implant/PMC10516747.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 10982
+  },
+  {
+   "file": "pmc/implant/PMC12407548.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 33883
+  },
+  {
+   "file": "pmc/implant/PMC4407834.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 47440
+  },
+  {
+   "file": "pmc/implant/PMC8519431.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 13717
+  },
+  {
+   "file": "pmc/implant/PMC9177933.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 42302
+  },
+  {
+   "file": "pmc/periodontal/PMC11325127.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 25596
+  },
+  {
+   "file": "pmc/periodontal/PMC11575048.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 42033
+  },
+  {
+   "file": "pmc/periodontal/PMC12093674.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 24344
+  },
+  {
+   "file": "pmc/periodontal/PMC12388118.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 28026
+  },
+  {
+   "file": "pmc/periodontal/PMC12428008.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 8134
+  },
+  {
+   "file": "pmc/periodontal/PMC4788799.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 25164
+  },
+  {
+   "file": "pmc/periodontal/PMC7373616.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 8897
+  },
+  {
+   "file": "pmc/periodontal/PMC7981974.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 28598
+  },
+  {
+   "file": "pmc/periodontal/PMC8858258.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 42681
+  },
+  {
+   "file": "pmc/periodontal/PMC8900018.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 18392
+  },
+  {
+   "file": "pmc/periodontal/PMC9859463.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 20092
+  },
+  {
+   "file": "pmc/periodontal/PMC9877066.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 31611
+  },
+  {
+   "file": "pmc/oral-cancer/PMC11476548.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 34158
+  },
+  {
+   "file": "pmc/oral-cancer/PMC12309984.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 24088
+  },
+  {
+   "file": "pmc/oral-cancer/PMC12703581.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 45077
+  },
+  {
+   "file": "pmc/oral-cancer/PMC12811903.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 25243
+  },
+  {
+   "file": "pmc/oral-cancer/PMC4689050.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 30972
+  },
+  {
+   "file": "pmc/oral-cancer/PMC4997723.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 25716
+  },
+  {
+   "file": "pmc/oral-cancer/PMC6463605.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 11605
+  },
+  {
+   "file": "pmc/oral-cancer/PMC7850700.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 8964
+  },
+  {
+   "file": "pmc/oral-cancer/PMC8699326.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 30986
+  },
+  {
+   "file": "pmc/tmd/PMC13027864.md",
+   "source": "pmc (PubMed Central)",
+   "bytes": 3584
+  },
+  {
+   "file": "nidcr_pubs/Burning-Mouth-Syndrome--281-29--281-29_0.md",
+   "source": "nidcr (publication)",
+   "bytes": 3596
+  },
+  {
+   "file": "nidcr_pubs/Diabetes-Dental-Tips-Spanish.md",
+   "source": "nidcr (publication)",
+   "bytes": 3116
+  },
+  {
+   "file": "nidcr_pubs/Diabetes-Dental-Tips.md",
+   "source": "nidcr (publication)",
+   "bytes": 2488
+  },
+  {
+   "file": "nidcr_pubs/Healthy-Mouth-For-Baby-AIAN_0.md",
+   "source": "nidcr (publication)",
+   "bytes": 2649
+  },
+  {
+   "file": "nidcr_pubs/Healthy-Mouth-For-Baby.md",
+   "source": "nidcr (publication)",
+   "bytes": 2608
+  },
+  {
+   "file": "nidcr_pubs/Healthy-Mouth-for-Baby_ES-Fact-Sheet.md",
+   "source": "nidcr (publication)",
+   "bytes": 3115
+  },
+  {
+   "file": "nidcr_pubs/Seal-Out-Tooth-Decay--281-29.md",
+   "source": "nidcr (publication)",
+   "bytes": 4337
+  },
+  {
+   "file": "nidcr_pubs/Seal-Out-Tooth-Decay-Spanish-Fact-Sheet--281-29.md",
+   "source": "nidcr (publication)",
+   "bytes": 6504
+  },
+  {
+   "file": "nidcr_pubs/al-tratar-los-trastornos-temporomandibulares--281-29.md",
+   "source": "nidcr (publication)",
+   "bytes": 4324
+  },
+  {
+   "file": "nidcr_pubs/brushing-older-adults-spanish.md",
+   "source": "nidcr (publication)",
+   "bytes": 7545
+  },
+  {
+   "file": "nidcr_pubs/detecting-oral-cancer-healthcare-professionals.md",
+   "source": "nidcr (publication)",
+   "bytes": 9939
+  },
+  {
+   "file": "nidcr_pubs/dry-mouth-and-older-adults.md",
+   "source": "nidcr (publication)",
+   "bytes": 4223
+  },
+  {
+   "file": "nidcr_pubs/dry-mouth-older-adults-spanish-508.md",
+   "source": "nidcr (publication)",
+   "bytes": 5076
+  },
+  {
+   "file": "nidcr_pubs/dry-mouth-questions-answers_0.md",
+   "source": "nidcr (publication)",
+   "bytes": 5460
+  },
+  {
+   "file": "nidcr_pubs/finding-low-cost-dental-care-EN.md",
+   "source": "nidcr (publication)",
+   "bytes": 5425
+  },
+  {
+   "file": "nidcr_pubs/flossing-info-for-caregivers.md",
+   "source": "nidcr (publication)",
+   "bytes": 4790
+  },
+  {
+   "file": "nidcr_pubs/flossing-older-adults-spanish.md",
+   "source": "nidcr (publication)",
+   "bytes": 5295
+  },
+  {
+   "file": "nidcr_pubs/la-boca-seca.md",
+   "source": "nidcr (publication)",
+   "bytes": 6524
+  },
+  {
+   "file": "nidcr_pubs/las-personas-la-salud-oral.md",
+   "source": "nidcr (publication)",
+   "bytes": 11836
+  },
+  {
+   "file": "nidcr_pubs/low-cost-care-older-adults-spanish-508.md",
+   "source": "nidcr (publication)",
+   "bytes": 7458
+  },
+  {
+   "file": "nidcr_pubs/older-adults-and-oral-health.md",
+   "source": "nidcr (publication)",
+   "bytes": 9540
+  },
+  {
+   "file": "nidcr_pubs/oral-cancer-exam.md",
+   "source": "nidcr (publication)",
+   "bytes": 1983
+  },
+  {
+   "file": "nidcr_pubs/oral-cancer.md",
+   "source": "nidcr (publication)",
+   "bytes": 2831
+  },
+  {
+   "file": "nidcr_pubs/oral-health-aging-brushing.md",
+   "source": "nidcr (publication)",
+   "bytes": 6077
+  },
+  {
+   "file": "nidcr_pubs/tmd-less-is-often-best--283-29.md",
+   "source": "nidcr (publication)",
+   "bytes": 3019
+  },
+  {
+   "file": "gov_cn/01-中国居民口腔健康指南.md",
+   "source": "gov.cn",
+   "bytes": 35216
+  },
+  {
+   "file": "gov_cn/02-健康口腔行动方案.md",
+   "source": "gov.cn",
+   "bytes": 9128
+  },
+  {
+   "file": "cndent/80371-氟斑牙-四环素牙-牙齿颜色不好看-难以启齿-想要灿烂笑容-做对这三步.md",
+   "source": "cndent",
+   "bytes": 5586
+  },
+  {
+   "file": "cndent/82646-牙周病危害大-更可怕的是你得了都不知道.md",
+   "source": "cndent",
+   "bytes": 9135
+  },
+  {
+   "file": "cndent/92054-一种会让牙齿掉光的病-很多人年轻时不重视.md",
+   "source": "cndent",
+   "bytes": 9503
+  }
+ ]
+}

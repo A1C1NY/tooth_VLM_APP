@@ -1,0 +1,32 @@
+---
+title: "Whitening | American Dental Association"
+source: ada.org
+url: https://www.ada.org/resources/ada-library/oral-health-topics/whitening
+sub: "ada"
+---
+
+For some time, there has been consistent consumer demand for whiter, brighter teeth and an attractive smile.<sup>1-3</sup>  Professionally administered (in-office) tooth whitening, also known as dental bleaching, remains a popular esthetic procedure and can be performed using a wide range of techniques and application protocols.  Another common approach is at-home whitening with custom-fitted trays, which patients use to apply professional-strength bleaching gel (for use at night or during the day).  Numerous over-the-counter (OTC) whitening products (e.g., strips, gels, rinses, chewing gums, or paint-on films) are also widely available for self-application at home.<sup>4</sup>
+
+**Extrinsic vs. Intrinsic Stains**
+
+Tooth (and dental) discoloration are terms used to describe any change in the color or translucency of a tooth,<sup>1</sup> as well as discoloration in multiple teeth or the entire dentition.  Tooth discolorations are typically classified as extrinsic, intrinsic, or a combination of both types.<sup>5</sup>
+
+Extrinsic stains commonly result from an accumulation of colored compounds on enamel.  Extrinsic discoloration is primarily associated with environmental factors or individual behaviors, such as tobacco use, exposure to metal salts (e.g., iron or copper), or the consumption of highly pigmented foods (e.g., dark fruits) or beverages (e.g., red wine, coffee, tea, or cola drinks).<sup>1, 6-11</sup>
+
+Extrinsic tooth stains vary widely in color and severity, and can be exacerbated by lifestyle habits (e.g., smoking or chewing tobacco), poor oral hygiene, or frequent consumption of pigmented food or beverages.<sup>12, 13</sup>  A wide range of extrinsic stains can be effectively reduced with mechanical interventions such as brushing with a whitening toothpaste or professional prophylaxis.<sup>6, 7, 14</sup>  Some OTC whitening products (e.g., toothpastes, chewing gums) are effective primarily in removing extrinsic (surface) stains on enamel, and will not have a significant impact on intrinsic stains or the intrinsic color of the tooth.<sup>4, 15</sup>
+
+Intrinsic stains occur inside the tooth (within the enamel or the underlying dentin), and can arise due to systemic causes such as genetic disorders (e.g., dentinogenesis imperfecta, amelogenesis imperfecta) or local factors during tooth development or after eruption (e.g., fluorosis).<sup>1, 16, 17</sup>  Aging is another common etiology of intrinsic discoloration.  With increasing age, enamel becomes more translucent and thinner, which allows the yellower dentin to show through and the overall tooth color may darken.<sup>1, 18</sup>  Other causes of intrinsic discoloration include certain antibiotic use in childhood (e.g., tetracycline),<sup>19</sup> caries, amalgam restorations, and pulpal hemorrhage, decomposition or necrosis.<sup>5, 7, 20</sup>  Intrinsic discoloration can also occur with prolonged use of antiseptic mouthrinse (e.g., chlorhexidine rinse).<sup>21</sup>
+
+**Whitening Agents**
+
+Reducing intrinsic stains involves a chemical reaction that changes the color of the tooth. The most common ingredients used in bleaching are carbamide peroxide and hydrogen peroxide, which are used at different concentrations depending on the products or regimens used.<sup>22</sup>
+
+The bleaching action in chemically induced whitening is due primarily to the effects of carbamide peroxide, which releases about one-third of its content as hydrogen peroxide, a strong oxidizing agent.<sup>23, 24</sup>  Hydrogen peroxide diffuses easily through interprismatic spaces in the enamel, allowing for passage from enamel and dentin to pulp within <sup>15</sup> minutes of exposure.<sup>25, 26</sup>  The bleaching process is generally believed to occur when reactive oxygen molecules (generated from hydrogen peroxide) interact with organic chromophores (colored compounds) within enamel and dentin through a chemical oxidation process, which is influenced by various environmental factors (e.g., pH, temperature, light).<sup>17, 25, 27</sup>
+
+The extent of whitening attained through bleaching may be influenced by the type of intrinsic stain being addressed.  For example, brown stains due to fluorosis or tetracycline<sup>28, 29</sup> may be more responsive to bleaching than white stains associated with fluorosis or orthodontic treatment, which may appear less noticeable as the background of the tooth lightens.<sup>30</sup>  The type of stain also can affect the length of and/or number of treatments required to arrive as close as possible to the desired result.  For example, although stains due to tetracycline may be diminished, treatment can require three to four months of nightly treatment (on average).<sup>28, 31</sup>
+
+**Patient Considerations and Preferences**
+
+Tooth whitening is a common elective procedure and a popular, less-invasive aesthetic treatment for patients seeking to enhance their smile and appearance.  A clinical exam prior to the start of tooth bleaching procedures, with radiographs and other screening and diagnostic tests as appropriate, can help diagnose various factors contributing to the patient’s tooth discoloration.<sup>32</sup>  A standard dental exam, beginning with a health and dental history, may include questions about the patient’s perception of the cause of the dental discoloration, as well as allergies (which may include ingredients in bleaching materials), and any past or recent history of tooth sensitivity.<sup>32, 33</sup>
+
+Patient dentition characteristics also influence the safe provision of care and the treatment’s level of success in whitening vital teeth.  Patients who have tooth-colored restorations (including crowns or implants) should be aware that only natural teeth will be affected by the bleaching agent and treatment could result in differences between natural teeth and restorations, which will not change color.<sup>28</sup>  The American Academy of Pediatric Dentistry discourages full-arch cosmetic bleaching for child and adolescent patients in the mixed dentition and primary dentition.<sup>34</sup>  Additionally, some research suggests that bleaching protocols may alter the surface roughness of enamel, which may also reduce the shear bond strength between enamel and composite and ceramic restorative materials.<sup>35</sup>

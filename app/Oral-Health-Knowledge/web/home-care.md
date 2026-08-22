@@ -1,0 +1,22 @@
+---
+title: "Home Oral Care | American Dental Association"
+source: ada.org
+url: https://www.ada.org/resources/ada-library/oral-health-topics/home-care
+sub: "ada"
+---
+
+Dental care includes actions to reduce disease risk, as well as the formulation and execution of a treatment plan when disease is present. While generalized recommendations for home oral care may be appropriate to help optimize oral wellness for many patients, those found to be at elevated risk of caries and/or gingivitis, may ask their dentists to provide guidance on additional action steps that they can take to reduce their risk of oral disease.<sup>28</sup>  To help address this reality, dentists may wish to offer the following guidance:
+
+- Design a home care regimen with specific recommendations for oral hygiene. This may involve consideration of not only the person’s individual oral disease risk but the needs and wants of the patient.
+- Offer direction concerning lifestyle changes (this is addressed in the next section, entitled “Lifestyle Considerations”).
+- Provide guidance on dental products and mechanical devices. This includes detailed suggestions that can help patients make decisions about dental hygiene practices and products.  Patients may look to their dentists for guidance and recommendations to help discern among the plethora of home oral care products and mechanical devices that lay claim to oral health benefit.  Dentists and patients can look to the [ADA Seal of Acceptance](https://www.ada.org/resources/research/science/ada-seal-of-acceptance) program as a source of validated information regarding the safety and efficacy of many home oral care products.
+
+The following sections provide evidence-based information to help inform decision-making between dentists and patients on products and mechanical devices that can be considered as adjunct therapies and modalities for the prevention of caries and/or gingivitis.
+
+1. **Antimicrobials**For individuals with increased risk for gingivitis or periodontal disease, there is evidence that over-the-counter oral care products containing specific antimicrobial active ingredients can decrease risk of gingivitis.  Systematic reviews found that mouthrinses containing an antimicrobial effective amount of a fixed combination of four essential oils (eucalyptol, menthol, methyl salicylate, and thymol) or cetylpyridinium chloride,<sup>29-31</sup> and toothpastes containing triclosan or stannous fluoride,<sup>32-34</sup> were associated with decreased risk of gingivitis and periodontal disease.
+
+    2. **Fluoride Mouthrinses**With regards to caries risk reduction, there is strong evidence supporting the use of fluoride-containing mouthrinses by children at elevated caries risk <sup>35</sup> and low level evidence on the benefit of adults using fluoride mouthrinse to decrease their risk of root caries.<sup>10</sup> All of the products available in the market that display the[ADA Seal of Acceptance](https://www.ada.org/resources/research/science/ada-seal-of-acceptance) have been shown to have fluoride levels that are safe and effective.
+3. **Powered Toothbrushes**Both manual and powered toothbrushes can provide effective removal of dental plaque and reduction in gingival inflammation when used appropriately.<sup>11, 12, 36-40</sup> For patients seeking or needing improved plaque removal, such as for patients with special needs, those who require the help of a caregiver for activities of daily living, or those with manual dexterity deficit, consider a powered toothbrush.<sup>41-45</sup>
+
+    4. **Interdental Cleaning Devices**
+Recent analysis using NHANES data found that adults who more frequently reported using floss or other devices to clean between their teeth were found less likely to have periodontitis.<sup>46</sup>  Because of the barriers to interdental cleaning, it may not be effective to tell patients that they must floss and expect it to become a regular part of their oral home care routine. Instead, dentists can support effective home oral care by gauging their patient’s level of understanding, learning about their motivation, and then serving as a “coach” by communicating and promoting daily cleaning between their teeth.<sup>47</sup> Discussing the various interdental cleaning devices can help educate patients on available options and provide them with some of the skills necessary to be effective stewards of their own oral health.

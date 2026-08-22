@@ -1,0 +1,48 @@
+---
+title: "Genetics and Oral Health | American Dental Association"
+source: ada.org
+url: https://www.ada.org/resources/ada-library/oral-health-topics/genetics-and-oral-health
+sub: "ada"
+---
+
+Every cell in the human body contains 23 pairs of chromosomes with one chromosome in the pair inherited from each parent.  Each chromosome, in turn, contains thousands of DNA gene sequences, some of which are active or expressed, and others that are dormant. Factors like time, the environment, and the type of cell containing the chromosome (e.g., tooth, brain, kidney, etc.), determine whether or not the gene will be expressed.  The control of gene expression is essential for the proper growth, development, and functioning of an organism.
+
+**Mendelian Inheritance**
+
+Traditionally, the passing on of genetic traits and diseases is thought of in terms of Mendelian inheritance patterns.  Children inherit one chromosome from each parent, and depending on the dominance of a gene in those chromosomes, a particular trait or disease may develop in the child.  In Mendelian genetics, genes can be autosomal dominant or recessive or linked to one of the sex chromosomes—X or Y. 
+
+*Autosomal Dominant.*  In autosomal dominant inheritance, only one chromosome in the pair needs to have the gene defect in question for the trait to manifest. An affected parent has a 50% chance of transmitting the mutated gene to any child.<sup>1-3</sup> Dentinogenesis imperfecta is an example of an autosomal dominant disorder. Other autosomal dominant disorders include achondroplasia (short-limbed dwarfism),<sup>3</sup> some forms of amelogenesis imperfecta,<sup>4</sup> and Marfan syndrome.<sup>3</sup>
+
+*Autosomal Recessive.*  By contrast, when a disorder is autosomal recessive, the child must inherit one copy of the defective gene from each parent for the disease or disorder to occur.<sup>2, 3</sup> Because each parent has one copy of the defective gene and is a carrier, there is a 25% chance that both mutant copies of the gene will be passed on to their offspring and that the child will manifest the disease. As with autosomal dominant disorders, it is equally likely that males and females will be affected. Fifty percent of the time, the offspring will get one copy of the mutant gene from one parent and will be a carrier, and 25% of the time the offspring will get two normal copies of the gene and will not develop the associated disease or disorder.<sup>2, 3</sup> Although autosomal recessive disorders are relatively uncommon, the carrier status in certain populations can be significant. For example, as many as 1 in 23 people of northwestern European descent are carriers of cystic fibrosis.<sup>5</sup> Some forms of ectodermal dysplasia and of amelogenesis imperfecta are inherited as autosomal recessive traits.<sup>4</sup>
+
+*Sex Linked.*  Sex-linked genes are genes that occur on either the X or Y chromosome, although only males can inherit Y-linked genes.  For traits on the X chromosome, as males only have one X chromosome, a son has a 50% chance of inheriting the defective gene from his mother and manifesting the disease.<sup>3</sup> If the defective gene is transmitted to a daughter, she will be a carrier for the disease and may display a mild phenotype.<sup>2</sup> Disorders with X-linked inheritance include X-linked hypohydrotic ectodermal dysplasia, fragile X syndrome, and factor VIII deficiency (hemophilia).<sup>2, 3, 6</sup> 
+
+**Chromosomal Anomalies**
+
+Some disorders result from defects in chromosomes that involve multiple genes. This includes duplication of all or part of a chromosome, deletion of part of a chromosome, or translocation of one chromosome onto another.<sup>2, 6</sup> Since chromosomal anomalies affect many genes, they result in multiple physical defects, as well as intellectual and developmental disturbances. Down syndrome (trisomy 21) is one example of a disorder with a chromosomal anomaly.<sup>2</sup> Individuals with chromosomal anomalies may have dental and/or craniofacial anomalies related to the genetic modification.
+
+**Multifactorial Inheritance/Complex Traits**
+
+Many common diseases are not inherited as a single gene defect, but instead are the result of modifications in gene expression or as gene-environment interactions. This includes diseases such as diabetes, hypertension, and bipolar disorder, nonsyndromic cleft lip and/or palate, dental caries, and periodontal disease. These diseases are considered “complex” because they involve multiple interactions between genes and environmental factors such as smoking, diet, stress, and environmental chemicals.<sup>1, 2</sup> An individual’s response to environmental factors and his or her subsequent susceptibility to disease are related to mechanisms that modify gene expression without altering the DNA sequence.<sup>1, 2, 7-10</sup>  *Epigenetics* refers to the mediation of gene expression without changes to the DNA sequence,<sup>11</sup> and may account for phenotypic variation between monozygotic twins.<sup>2, 6, 7, 9</sup>  Epigenetic changes include DNA methylation, post-translational histone modification and non-coding RNA-associated gene silencing,<sup>11, 12</sup> and may be the result of age, stress, nutrition, or environmental factors that occur during developmental stages.<sup>2, 7</sup>
+
+**Genotype vs. Phenotype**
+
+Traits can be discrete or continuous, and expression can be controlled by environmental exposures or *modifier genes*.<sup>2, 6, 13</sup>  Dominant genes (discrete) may have variable *expressivity* creating a range of phenotypes,<sup>2</sup> while others can be *threshold traits*, in which there is a genotype continuum, but a ‘threshold’ determines only a limited number of phenotypes.  In contrast to a phenotypic range of expressivity in individuals, *penetrance* refers to the likelihood of a gene variant arising in a phenotype.<sup>2, 3, 6</sup>
+
+Environmental and other external and internal factors can affect the expression of one’s genotype, so that the presence or absence of gene variants or alleles only partially affects one’s phenotype.<sup>2, 6</sup>  Further, a gene may be *pleiotropic*, leading to several phenotypic outcomes;<sup>2, 6</sup> a single gene variant, for example, may affect incidence of both caries and periodontitis.<sup>14</sup>
+
+**Estimating Genetic Control and Heritability**
+
+*Mapping and Identifying Genes*
+
+Among families with consistent inheritance of a disease, *linkage studies* can determine the chromosomal region or genetic variant (polymorphism) responsible for the expression of the disease by following the appearance of genetic markers exclusive to the phenotype.<sup>1, 2, 6, 12</sup>  
+
+Within each individual’s genome are sequence variations (single nucleotide polymorphisms or SNPs) that may be associated with a complex disease, but that are not considered causative.<sup>1, 3</sup> These variations often affect how genes interact with each other or how proteins interact with specific genes to regulate their activity. *Association studies* identify SNPs that are responsible for phenotypic traits or diseases by sequencing a specific gene in a representative sample of individuals with the phenotype.<sup>1, 6</sup>  *Candidate gene* studies look for gene variants of a suspected gene (i.e., “candidate”) found in individuals with a disease, compared to those without it.<sup>6, 12</sup>  Variation in the sequences (polymorphisms) of these suspected regions can be determined by sequencing and may then be identified as the gene variant associated with the disease.<sup>2, 6, 12</sup>  For example, a T allele in a specific SNP may be a protective or normal factor, while an A allele may be a risk factor.
+
+SNPs have been identified as part of the sequencing of the entire human genome and have been incorporated into studies referred to as *genome-wide association studies* (GWAS).<sup>2, 3</sup> In these studies, individuals with a certain disease, like dental caries, are compared to individuals without the disease by looking at the SNP sequences at millions of sites throughout the genome.<sup>1, 2</sup> Using sophisticated, statistical analysis, researchers identify specific SNPs that are more frequently associated with the disease. Once a site on the genome is identified as a potential site of the disease in question, further investigation is completed to identify genes involved and understand their clinical significance.
+
+Studies of complex disorders, by definition, include relevant environmental factors that are known to contribute to the disease. For example, a GWAS study of dental caries would need to include fluoride exposure, socioeconomic status, dietary habits, oral microflora, and oral hygiene habits to be able to assess the gene-environment interactions that contribute to disease.
+
+*Twin Studies and Heritability*
+
+Heritability is a measure of genetic control of a phenotypic trait; usually represented by *h<sup>2</sup>*, the proportion of variance attributable to genetic variation, a continuous value in which essentially no genetic influence is 0 and full genetic influence is 1.<sup>2, 8, 15</sup>  Heritability estimates often rely on studies of concordance between twins. Because monozygotic (i.e., identical) twins share the same genome, and dizygotic (i.e., fraternal) twins approximately half, researchers can estimate the contributions of additive genetic variance, non-additive (essentially Mendelian) genetic variance, the shared or common environment, and the unique (individual) environment.<sup>2, 6, 8</sup>
