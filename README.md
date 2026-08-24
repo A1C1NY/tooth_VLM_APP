@@ -61,7 +61,7 @@ ToothVLM-App/
 
 ### 1. Conda 环境
 
-使用训练仓库的 `dino_VLM` 环境。如果没有，可从训练仓库复制或基于 CUDA 版本创建：
+使用训练仓库（https://github.com/A1C1NY/dinoV3_ToothVLM）的 `dino_VLM` 环境。如果没有，可从训练仓库复制或基于 CUDA 版本创建：
 
 ```bash
 # 查看现有环境
