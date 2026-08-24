@@ -1,6 +1,9 @@
 # ToothVLM Application
 
-口腔健康检测应用 - 生产级 Web 应用，集成 DINOv3 视觉识别、LLM 对话和知识库检索。
+口腔健康检测应用 - 集成 DINOv3 视觉识别、LLM 对话和知识库检索。
+
+训练仓库：https://github.com/A1C1NY/dinoV3_ToothVLM
+权重在 https://huggingface.co/Kellection/dinoV3-ToothVLM-Sonata 可以下载
 
 ## 项目结构
 
@@ -73,20 +76,16 @@ conda activate dino_VLM
 
 ### 2. 模型权重
 
-模型权重需要从训练仓库获取。设置方式：
-
-#### 方案 A：符号链接（推荐，节省磁盘）
+模型权重需要从训练仓库获取。
+可以从 https://huggingface.co/Kellection/dinoV3-ToothVLM-Sonata 直接下载已经训练的权重，也可以使用 https://github.com/A1C1NY/dinoV3_ToothVLM 自主训练
 
 在 PowerShell（**管理员权限**）执行：
 
 ```powershell
-cd d:\File\Programming\Tooth_VLM\ToothVLM-App
-New-Item -ItemType SymbolicLink -Path "res_checkpoints" -Target "d:\File\Programming\Tooth_VLM\dinoV3_ToothVLM\res_checkpoints"
+New-Item -ItemType SymbolicLink -Path "res_checkpoints" -Target "YOUR_PATH"
 ```
 
-#### 方案 B：复制文件
-
-从训练仓库复制 `res_checkpoints/` 目录到本仓库。
+也可以直接下载到本仓库 `res_checkpoints/`位置下 。
 
 ### 3. Ollama（LLM 和文本嵌入）
 
