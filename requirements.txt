@@ -19,3 +19,7 @@ ultralytics>=8.0.0
 # 工具
 pyyaml>=6.0
 tqdm
+
+# RAG检索
+chromadb>=0.6.0,<1.0
+posthog<3.7.0  # chromadb 0.6.3 不兼容新版 posthog API

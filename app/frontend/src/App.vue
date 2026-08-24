@@ -1,6 +1,7 @@
 <script setup>
 import { computed, nextTick, onMounted, ref } from 'vue'
 import { ImagePlus, LoaderCircle, MessageCirclePlus, SendHorizontal, Trash2, X } from 'lucide-vue-next'
+import { marked } from 'marked'
 import { api } from './api'
 
 const conversations = ref([])
@@ -16,6 +17,10 @@ const fileInput = ref(null)
 let selectionRequest = 0
 
 const activeConversation = computed(() => conversations.value.find((item) => item.id === activeId.value))
+
+function parseMarkdown(text) {
+  return marked(text)
+}
 
 function formattedDate(value) {
   return new Intl.DateTimeFormat('zh-CN', { month: 'numeric', day: 'numeric', hour: '2-digit', minute: '2-digit' }).format(new Date(value))
@@ -174,7 +179,7 @@ onMounted(async () => {
           <article class="message" :class="[message.role, { pending: message.pending }]">
             <div class="message-avatar">{{ message.role === 'assistant' ? 'T' : '我' }}</div>
             <div class="message-content">
-              <div class="bubble"><template v-if="message.pending"><LoaderCircle :size="17" class="spin" />正在分析与生成回复</template><template v-else>{{ message.content }}</template></div>
+              <div class="bubble"><template v-if="message.pending"><LoaderCircle :size="17" class="spin" />正在分析与生成回复</template><template v-else><div v-html="parseMarkdown(message.content)" class="markdown-content"></div></template></div>
               <div v-if="message.images?.length" class="image-grid">
                 <img v-for="image in message.images" :key="image" :src="image" alt="用户上传的口腔图片" />
               </div>
