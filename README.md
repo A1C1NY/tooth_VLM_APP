@@ -4,8 +4,9 @@
 
 训练仓库：https://github.com/A1C1NY/dinoV3_ToothVLM  
 
-权重在 https://huggingface.co/Kellection/dinoV3-ToothVLM-Sonata 可以下载
+权重： https://huggingface.co/Kellection/dinoV3-ToothVLM-Sonata
 
+训练使用数据集：https://huggingface.co/datasets/Kellection/sonata-dental-dataset
 ## 项目结构
 
 ```
