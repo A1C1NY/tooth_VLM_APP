@@ -166,4 +166,13 @@ self._detector = SimpleToothDetector(checkpoint, device="cpu")
 
 ## License
 
-MIT License（继承自训练仓库）
+This project uses [DINOv3](https://github.com/facebookresearch/dinov3) by Meta, licensed under [LICENSE.md](LICENSE.md).
+
+The application code and trained models are provided under the MIT License, subject to the DINOv3 license terms for the DINOv3 components.
+
+See [LICENSE.md](LICENSE.md) for full license text.
+
+## Acknowledgments
+
+This project builds upon [DINOv3](https://github.com/facebookresearch/dinov3) by Meta Platforms, Inc.
+
