@@ -2,7 +2,8 @@
 
 口腔健康检测应用 - 集成 DINOv3 视觉识别、LLM 对话和知识库检索。
 
-训练仓库：https://github.com/A1C1NY/dinoV3_ToothVLM
+训练仓库：https://github.com/A1C1NY/dinoV3_ToothVLM  
+
 权重在 https://huggingface.co/Kellection/dinoV3-ToothVLM-Sonata 可以下载
 
 ## 项目结构
@@ -76,7 +77,8 @@ conda activate dino_VLM
 
 ### 2. 模型权重
 
-模型权重需要从训练仓库获取。
+模型权重需要从训练仓库获取。  
+
 可以从 https://huggingface.co/Kellection/dinoV3-ToothVLM-Sonata 直接下载已经训练的权重，也可以使用 https://github.com/A1C1NY/dinoV3_ToothVLM 自主训练
 
 在 PowerShell（**管理员权限**）执行：
