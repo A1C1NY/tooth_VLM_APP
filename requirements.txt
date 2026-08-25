@@ -16,6 +16,10 @@ Pillow>=9.0.0
 # YOLO依赖
 ultralytics>=8.0.0
 
+# DINOv3 hub 依赖（加载 hubconf.py 时需要）
+torchmetrics
+termcolor
+
 # 工具
 pyyaml>=6.0
 tqdm

@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import sys
 from pathlib import Path
 from threading import Lock
 
@@ -8,7 +9,11 @@ import torch.nn.functional as F
 from PIL import Image
 from torchvision import transforms
 
-from ..settings import PROJECT_ROOT
+from ..settings import PROJECT_ROOT, settings
+
+# 确保可以导入 models.*（models/utils/device.py 等）
+sys.path.insert(0, str(PROJECT_ROOT))
+from models.utils.device import resolve_device  # noqa: E402
 
 
 class PeriodontalService:
@@ -18,7 +23,7 @@ class PeriodontalService:
         self._model = None
         self._class_names: list[str] = []
         self._img_size = 224
-        self._device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+        self._device = resolve_device(settings.device)
         self._lock = Lock()
 
     def _load(self) -> None:

@@ -21,6 +21,7 @@ sys.path.insert(0, str(PROJECT_ROOT))
 
 from models.definitions.model.yolov10_dinov3 import build_model
 from models.config.config import Config
+from models.utils.device import resolve_device
 
 
 class SimpleToothDetector:
@@ -42,15 +43,15 @@ class SimpleToothDetector:
         "tooth_discoloration": "可考虑牙齿美白治疗，建议咨询牙科医生。",
     }
 
-    def __init__(self, checkpoint_path, device="cuda" if torch.cuda.is_available() else "cpu"):
+    def __init__(self, checkpoint_path, device="auto"):
         """
         初始化检测器
 
         Args:
             checkpoint_path: 模型权重路径
-            device: 运行设备 (cuda/cpu)
+            device: 运行设备 (auto/cuda/mps/cpu)，auto 自动选择 cuda -> mps -> cpu
         """
-        self.device = device
+        self.device = resolve_device(device)
         self.checkpoint_path = Path(checkpoint_path)
 
         if not self.checkpoint_path.exists():
@@ -96,7 +97,7 @@ class SimpleToothDetector:
             BACKBONE_LR = 0.0001
             WARMUP_EPOCHS = 5
             UNFREEZE_BLOCKS = 6
-            DEVICE = 'cuda' if torch.cuda.is_available() else 'cpu'
+            DEVICE = str(resolve_device())
 
             BACKBONE_OUT_INDICES = (5, 8, 11)
             RESUME_CHECKPOINT = None

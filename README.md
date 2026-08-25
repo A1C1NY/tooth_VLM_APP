@@ -266,6 +266,7 @@ npm run dev -- --host 127.0.0.1
 | `TOOTH_VLM_MODEL` | `qwen3.5:9b` | 对话 LLM 模型名（Ollama 中的模型）|
 | `TOOTH_VLM_EMBED_MODEL` | `bge-m3` | 文本嵌入模型名（用于 RAG）|
 | `TOOTH_VLM_MAX_HISTORY` | `30` | 对话历史消息数（越多越消耗内存）|
+| `TOOTH_VLM_DEVICE` | `auto` | 推理设备：`auto`（自动选择 cuda → mps → cpu）/ `cuda` / `mps` / `cpu`（Apple Silicon 上自动使用 MPS 加速）|
 | `OLLAMA_URL` | `http://127.0.0.1:11434/v1/` | Ollama 服务地址 |
 
 #### 示例：选择不同的 LLM 模型
@@ -413,12 +414,16 @@ curl http://127.0.0.1:8000/api/health
 # 3. 确保前端访问的是正确的 URL（应该是 127.0.0.1:5173）
 ```
 
-### CUDA 内存不足
+### CUDA 内存不足 / 显存不足
 
-**解决方案**：修改 [app/backend/services/detector.py](app/backend/services/detector.py) 使用 CPU：
+**解决方案**：设置 `TOOTH_VLM_DEVICE` 切换到 CPU（或 Apple Silicon 上改用 MPS）：
 
-```python
-self._detector = SimpleToothDetector(checkpoint, device="cpu")
+```bash
+# 强制使用 CPU
+export TOOTH_VLM_DEVICE="cpu"
+
+# Apple Silicon 上使用 MPS（默认 auto 已自动选择）
+export TOOTH_VLM_DEVICE="mps"
 ```
 
 ## 开发说明
