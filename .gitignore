@@ -22,6 +22,7 @@ wheels/
 
 # Virtual Environment
 venv/
+.venv/
 ENV/
 env/
 
@@ -38,6 +39,7 @@ app/runtime/
 
 # Model weights (link from training repo)
 res_checkpoints/
+pretrained_checkpoints/
 
 # Node modules
 node_modules/

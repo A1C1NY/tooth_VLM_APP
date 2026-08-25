@@ -2,7 +2,7 @@ from __future__ import annotations
 
 from pathlib import Path
 
-from ..settings import PROJECT_ROOT, RESULTS_DIR
+from ..settings import PROJECT_ROOT, RESULTS_DIR, settings
 
 
 class DetectionService:
@@ -23,7 +23,8 @@ class DetectionService:
                 / "multi_disease_Sonata_expt_v3_1"
                 / "best_map.pth"
             )
-            self._detector = SimpleToothDetector(checkpoint)
+            # device 由 TOOTH_VLM_DEVICE 控制（默认 auto: cuda -> mps -> cpu）
+            self._detector = SimpleToothDetector(checkpoint, device=settings.device)
 
         result_dir = RESULTS_DIR / image_path.stem
         result = self._detector.process_image(image_path, output_dir=result_dir)

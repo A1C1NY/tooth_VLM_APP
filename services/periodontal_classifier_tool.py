@@ -7,6 +7,7 @@ PROJECT_ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(PROJECT_ROOT))
 
 from models.infer_classifier_periodontal import load_checkpoint
+from models.utils.device import resolve_device
 
 
 def classify_periodontal_disease(image_path: str) -> dict:
@@ -18,7 +19,7 @@ def classify_periodontal_disease(image_path: str) -> dict:
 
     checkpoint = PROJECT_ROOT / "res_checkpoints" / "best_val_acc.pth"
     model, class_names, img_size = load_checkpoint(checkpoint)
-    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    device = resolve_device()  # auto: cuda -> mps -> cpu
     model.to(device).eval()
     transform = transforms.Compose([
         transforms.Resize(int(img_size * 256 / 224)),

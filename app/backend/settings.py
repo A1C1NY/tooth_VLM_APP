@@ -18,6 +18,8 @@ class Settings:
     ollama_url: str = os.getenv("OLLAMA_URL", "http://127.0.0.1:11434/v1/")
     model: str | None = os.getenv("TOOTH_VLM_MODEL") or "qwen3.5:9b"
     max_history_messages: int = int(os.getenv("TOOTH_VLM_MAX_HISTORY", "30"))
+    # 推理设备：auto（默认，cuda -> mps -> cpu）或显式指定 cuda / mps / cpu
+    device: str = os.getenv("TOOTH_VLM_DEVICE", "auto")
 
 
 settings = Settings()
